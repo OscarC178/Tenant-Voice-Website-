@@ -1,4 +1,8 @@
-[**The Tenant's Voice: AI-Powered Tenancy Guidance**](www.thetenantsvoice.uk)
+------------------------
+**The Tenant's Voice: AI-Powered Tenancy Guidance**
+------------------------
+www.thetenantsvoice.uk
+
 
 For a detailed analysis of the product decisions, architecture choices, and technical trade-offs (including LLM selection) made during the build process, please see the [**Product Build Decisions document**](https://github.com/OscarC178/Tenant-Voice-Website-/blob/main/Product_build_decisions.md).
 
