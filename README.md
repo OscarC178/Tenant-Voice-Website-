@@ -1,6 +1,6 @@
 [**The Tenant's Voice: AI-Powered Tenancy Guidance**](www.thetenantsvoice.uk)
 
-For a detailed analysis of the product decisions, architecture choices, and technical trade-offs (including LLM selection) made during the build process, please see the [**Build Decisions & Analysis document**](https://www.google.com/search?q=BUILD_DECISIONS.md).
+For a detailed analysis of the product decisions, architecture choices, and technical trade-offs (including LLM selection) made during the build process, please see the [**Product Build Decisions document**](https://github.com/OscarC178/Tenant-Voice-Website-/blob/main/Product_build_decisions.md).
 
 
 The Tenant's Voice is a free web application designed to empower UK tenants by providing instant, AI-powered guidance on tenancy issues. It uses a Retrieval-Augmented Generation (RAG) pipeline to answer questions about deposit disputes, repairs, and evictions, grounding its answers in a database of official UK tenancy law.
