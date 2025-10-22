@@ -34,4 +34,4 @@ The application is a modern, serverless web app built for speed and accuracy.
   5. Returns a structured JSON object to the frontend with the answer and suggested actions.
 
 ## **Product & Engineering Deep Dive**
-
+Please see the [**Product Build Decisions document**](https://github.com/OscarC178/Tenant-Voice-Website-/blob/main/Product_build_decisions.md).
