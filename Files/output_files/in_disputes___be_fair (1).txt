@@ -1,0 +1,69 @@
+Source URL: https://www.depositprotection.com/learning-centre/disputes/in-disputes-be-fair
+Scrape Date: 28 September 2025
+---
+
+Some claims fail because the deductions the landlord has requested are unreasonable in the eyes of the law.
+
+Our adjudicators must account for fair wear and tear. This is defined as ‘deterioration in condition of the property due to reasonable use’.
+
+Adjudicators can’t make awards for betterment, which means your claim would make your property even better than it was at the start of the tenancy. Your claims also must be reasonable, for example: you can’t insist your tenant hires professional cleaners to clean a property to the required standard as the tenants may be very capable of doing this themselves.
+
+What is fair wear and tear?
+
+Adjudicators can only fall back on the legal definition of fair wear and tear, which is the "reasonable operation of natural forces". As there are so many variable factors which affect fair wear and tear, they look at the evidence presented to make a reasonable conclusion as to what they believe has happened.
+
+Landlords can only claim for excessive wear and tear, as it would then be considered a claim for damages. This is particularly important in disputes where the tenant has lived in the property for a long time. For example, the adjudicator is unlikely to make an award for a claim for redecoration costs if the tenant has lived in the property for five or more years, as the landlord would probably have needed to redecorate anyway, regardless of anything the tenant has done.
+
+How much should you claim?
+
+Many landlords believe that the property should be returned to them in the same condition as at the start of the tenancy. Deductions are often claimed from the deposit for minor damage that should be expected in any normal use of the property. Similarly, some landlords might want to ‘replace’ items in the property which are coming to the end of their natural life, such as an old washing machine where the door handle has broken during the tenancy.
+
+The House of Lords defined fair wear and tear as “reasonable use of the premises by the tenant and the ordinary operation of natural forces”. The word ‘reasonable’ can be interpreted differently, depending on the type of property and who occupies it. In addition, it is an established legal principle that a landlord is not entitled to charge their tenants the full cost for having any part of their property, or any fixture or fitting, “put back to the condition it was at the start of the tenancy.” Landlords should therefore keep in mind that the tenant’s deposit is not to be used like an insurance policy where you might get “full replacement value” or “new for old”. The landlord also has a duty to act reasonably and not claim more than is necessary to make good any loss.
+
+An example of how this could be calculated is below:
+a) Cost of similar replacement item
+b) Age of existing item
+c) Average useful lifespan of that item
+d) Residual lifespan of item, calculated as:
+e) Depreciation of value rate calculated as:
+f) Reasonable apportionment cost to tenant calculated as:
+
+An example of this with a carpet could be:
+a) Cost of similar replacement carpet: £500
+b) Actual age of existing carpet: 2 years
+c) Average useful lifespan of that type of carpet: 5 years
+d) Residual lifespan of carpet calculated as:
+e) Depreciation of value rate calculated as:
+f) Reasonable apportionment cost to tenant calculated as:
+
+Please note, the adjudicator must make a decision that is reasonable in view of the evidence that is presented to them by the parties in that unique dispute. Therefore, it may not always be appropriate to apply this approach.
+
+What is betterment?
+
+Betterment is when the landlord is claiming the costs of making the property better than when the tenants originally moved in. Adjudicators cannot award claims for this. It includes the example above of expecting tenants to return the property cleaner than when they moved in, as well as for replacing old goods, fixtures or fittings with new or better equivalents, or redecorating the property to a higher standard than at the start of the tenancy. Adjudicators take residual lifespan into account, so tenants aren’t left with the full cost of replacing 20-year-old furniture if they’ve only used it for a couple of years. Instead they’ll award an appropriate portion towards the cost of replacement. In cases where an item has had its value reduced or its lifespan shortened, for example by damage, an award of compensation may be appropriate.
+
+Potentially unreasonable clauses
+
+Clauses that require the tenant to have the property professionally cleaned, irrespective of the cleanliness at check in. It is more reasonable to have a clause which requires the tenant to “clean to the same standard as the property was in at the start of the tenancy”, then provide supporting evidence to show that the property was cleaned to a professional standard at the start. This is then the standard that the tenant has to clean to when they leave.
+
+To replace any items at the end of the tenancy and provide new. This is usually seen in student tenancies and relates to items such as mattress protectors.
+
+Any clauses which seek to transfer an obligation of the landlord onto the tenant – for example anything requiring the tenant to be responsible for repair or maintenance of the structure of the building, or to pay any costs associated (such as gas safety inspections, boiler repairs etc).
+
+Clauses allowing the landlord (or their contractors) to enter the property at any time or without prior notice.
+
+Any clauses which seek to impose charges which are excluded under the Tenant Fee Ban.
+
+How do adjudicators decide?
+
+It’s very difficult for tenancy deposit protection schemes to provide strict guidance on the value of deductions landlords and agents should claim from the deposit. Because there are so many varying factors for each dispute and each case must be considered on its own merits - no two cases are ever the same.
+
+However, adjudicators are likely to consider the following common factors when coming to a particular decision:
+
+Length of tenancy – the longer the tenancy, the more natural wear. Common sense but think, for example, how much wear a carpet in your own home shows after one, two or three years. Also consider what the item’s condition was when the tenancy started; was it brand new or has it already seen a few tenancies come and go?
+
+Number and age of occupiers – the more bedrooms and occupants, the higher the wear and tear that should be expected in all the common parts e.g. sitting room, passages, stairs, bathrooms and kitchen. If you are letting to a family with children, factor that in too. Scuffs and scrapes are unavoidable in normal family life. A property occupied by a single person should see far less wear than a family of four, so bear this in mind when it’s time for tenants to check out.
+
+Wear and tear vs. actual damage – when is it no longer normal wear? Damage i.e. breaking something is not wear and tear - meaning either replacement or repair. Light marks on a carpet might have to be viewed as unavoidable. On the other hand, damage such as nail varnish spills on the floor or iron burns that have occurred due to negligence could see the tenant liable for repair. Consider whether the item has been damaged or worn out through natural use versus negligence when making a judgement call.
+
+Quality and condition – consider the original quality of the item at the start of the tenancy and what it originally cost to provide. It would be unreasonable for a landlord to provide a cheap and flimsy set of bedroom furniture and then blame the tenant if the items are damaged through normal usage. Adjudicators may expect to see receipts or other evidence to confirm an item’s age, or its cost and quality when new. Another consideration is the quality or fabric of the property itself. Many new builds tend not to be quite as robust as older properties or conversions. Walls, partitions and internal painted surfaces tend to be thinner and therefore likely to suffer more stress, particularly in higher footfall areas of the property. This inevitably means that there is a greater need for redecoration at the end of the tenancy period. An adjudicator may therefore consider more than a simple contribution to the cost of redecoration from the tenant to be unreasonable.

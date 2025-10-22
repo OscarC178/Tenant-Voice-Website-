@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T8Z5XPL244"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T8Z5XPL244');
+</script>
+    <link rel="manifest" href="/site.webmanifest">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tenant's Voice - Free Tenancy Guidance</title>
+    <meta name="description" content="Get free, instant AI-powered guidance on UK tenancy issues like deposit disputes, repairs, and evictions with The Tenant's Voice.">
+    <link rel="canonical" href="https://www.thetenantsvoice.uk/index.html" />
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "The Tenant's Voice",
+      "url": "https://www.thetenantsvoice.uk/",
+      "description": "Get free, instant AI-powered guidance on UK tenancy issues like deposit disputes, repairs, and evictions with The Tenant's Voice.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Tenant's Voice",
+        "url": "https://www.thetenantsvoice.uk/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.thetenantsvoice.uk/logo.png"
+        },
+        "founder": {
+            "@type": "Person",
+            "name": "Oscar"
+        }
+      }
+    }
+    </script>
+    
+    <style>
+        :root, [data-theme="light"] {
+            --bg-primary: #F4F1EC;
+            --bg-secondary: #FFFFFF;
+            --text-primary: #4C4B5E;
+            --text-secondary: #6e6d80;
+            --border-primary: #e5e7eb;
+            --accent-primary: #2A6F6B; /* Teal */
+            --accent-primary-bg: #2A6F6B;
+            --accent-secondary: #F5662D; /* Orange */
+            --accent-secondary-hover: #E05A27;
+            --highlight-color: rgba(42, 111, 107, 0.2);
+        }
+        [data-theme="dark"] {
+            --bg-primary: #232231;
+            --bg-secondary: #2f2e41;
+            --text-primary: #e2e1f0;
+            --text-secondary: #a3a2b8;
+            --border-primary: #4C4B5E;
+            --accent-primary: #38a8a2;
+            --accent-primary-bg: #2A6F6B;
+            --accent-secondary: #f78d62;
+            --accent-secondary-hover: #F5662D;
+            --highlight-color: rgba(56, 168, 162, 0.2);
+        }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .bg-card { background-color: var(--bg-secondary); }
+        .text-main { color: var(--text-primary); }
+        .text-subtle { color: var(--text-secondary); }
+        .border-main { border-color: var(--border-primary); }
+        .accent-text { color: var(--accent-primary); }
+        .accent-bg { background-color: var(--accent-primary-bg); }
+        
+        .chat-bubble-user { background-color: var(--accent-primary-bg); }
+        .chat-bubble-ai { background-color: #4C4B5E; }
+
+        @keyframes pulse-highlight {
+            0% { box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06); }
+            50% { box-shadow: 0 0 0 4px var(--highlight-color), 0 10px 15px -3px rgba(0,0,0,0.1); }
+            100% { box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05); }
+        }
+        .card-highlight-animation { animation: pulse-highlight 1.5s ease-out; }
+
+        .cta-button { background-color: var(--accent-secondary); color: white; transition: background-color 0.2s; }
+        .cta-button:hover { background-color: var(--accent-secondary-hover); }
+
+        .action-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .action-btn:not(:disabled) { cursor: pointer; transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s; }
+        .action-btn.primary,
+        .action-btn.secondary {
+    border: 1px solid var(--border-primary);
+    color: var(--text-primary);
+    background-color: var(--bg-secondary);
+}
+
+        .action-btn.primary:hover,
+    .action-btn.secondary:hover {
+    background-color: var(--accent-primary-bg);
+    color: white;
+    border-color: var(--accent-primary-bg);
+}
+        .font-serif { font-family: 'Times New Roman', Times, serif; }
+
+        [data-theme="dark"] #chat-input,
+        [data-theme="dark"] #postcode-input {
+            background-color: #4C4B5E;
+            border-color: #6e6d80;
+        }
+        [data-theme="dark"] #chat-input::placeholder,
+        [data-theme="dark"] #postcode-input::placeholder {
+            color: #a3a2b8;
+        }
+        [data-theme="dark"] #generated-content-body {
+            background-color: #4C4B5E;
+            border: 1px solid #6e6d80;
+        }
+        .council-link { transition: color 0.2s, border-color 0.2s; }
+        .council-link:hover { border-color: var(--accent-primary); color: var(--accent-primary); }
+    </style>
+</head>
+<body class="text-main">
+
+    <div class="container mx-auto p-4 md:p-8">
+        <header class="flex justify-between items-center mb-12 pb-4 border-b border-main">
+            <a href="index.html" class="flex items-center gap-4">
+                 <svg width="40" height="40" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20 10.5L10 17.1667V30.5H15V22.1667H25V30.5H30V17.1667L20 10.5Z" fill="var(--accent-primary)"/>
+                    <rect x="17" y="20.5" width="6" height="10" rx="3" fill="var(--accent-secondary)"/>
+                </svg>
+                 <div class="hidden sm:flex items-center gap-3">
+                    <span class="font-serif text-2xl font-bold">The</span>
+                    <div class="border-l-2 h-8" style="border-color: var(--text-primary);"></div>
+                    <span class="font-serif text-3xl font-bold tracking-wider">Tenant's Voice</span>
+                 </div>
+            </a>
+            <div class="flex items-center gap-4">
+                 <div id="theme-switcher" class="flex items-center p-1 rounded-full bg-card">
+                    <button id="light-theme-btn" class="p-2 rounded-full leading-none transition-colors"><i class="fas fa-sun"></i></button>
+                    <button id="dark-theme-btn" class="p-2 rounded-full leading-none transition-colors"><i class="fas fa-moon"></i></button>
+                </div>
+                <a href="story.html" class="accent-text hover:underline transition">Why I built this &rarr;</a>
+            </div>
+        </header>
+        
+        <section class="mb-16">
+            <h2 class="text-3xl font-bold text-center mb-8">How It Works</h2>
+             <div class="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+                <div class="p-4"><div class="bg-card border border-main text-main w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl ring-4 ring-offset-4 ring-offset-[var(--bg-primary)] ring-[var(--accent-primary)]">1</div><h3 class="font-bold text-lg mb-2">Describe Your Issue</h3><p class="text-subtle text-sm">Use the chat below to explain your tenancy problem in your own words.</p></div>
+                <div class="p-4"><div class="bg-card border border-main text-main w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl ring-4 ring-offset-4 ring-offset-[var(--bg-primary)] ring-[var(--accent-secondary)]">2</div><h3 class="font-bold text-lg mb-2">Get Instant Guidance</h3><p class="text-subtle text-sm">Our AI analyzes your situation and provides a summary of your rights and the law.</p></div>
+                <div class="p-4"><div class="cta-button text-white w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-xl">3</div><h3 class="font-bold text-lg mb-2">Take Action</h3><p class="text-subtle text-sm">Choose from suggested next steps, like drafting an email to your landlord or phoning the council.</p></div>
+            </div>
+        </section>
+        
+        <main id="main-grid" class="grid grid-cols-1 lg:grid-cols-5 gap-8">
+            <div class="lg:col-span-3 flex flex-col gap-8">
+                <div class="bg-card p-6 rounded-2xl shadow-lg flex-grow flex flex-col">
+                    <div class="flex justify-between items-center mb-4"><h2 class="text-xl font-bold flex items-center"><i class="fas fa-comments mr-3 accent-text"></i>Your Guidance Chat</h2><button id="clear-chat-btn" class="text-xs text-subtle hover:accent-text transition flex items-center gap-1"><i class="fas fa-trash"></i> Clear Chat</button></div>
+                    <div id="chat-history" class="flex-grow space-y-4 overflow-y-auto pr-2 h-96"><div id="chat-empty-state" class="flex flex-col items-center justify-center h-full text-center text-subtle"><svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 12.5L12 20.1667V34.5H18V25.1667H30V34.5H36V20.1667L24 12.5Z" fill="var(--accent-primary)"/><rect x="21" y="24.5" width="6" height="10" rx="3" fill="var(--accent-secondary)"/></svg><h3 class="font-bold text-main mt-4">How can I help you today?</h3><p class="text-sm mt-2">Try one of these examples, or type your own issue below:</p><div class="mt-4 space-y-2 w-full max-w-md"><button class="example-prompt-btn w-full bg-primary p-2 rounded-lg text-sm border border-main hover:accent-bg hover:text-white transition">"My landlord hasn't protected my deposit."</button><button class="example-prompt-btn w-full bg-primary p-2 rounded-lg text-sm border border-main hover:accent-bg hover:text-white transition">"There is black mould in my bathroom."</button><button class="example-prompt-btn w-full bg-primary p-2 rounded-lg text-sm border border-main hover:accent-bg hover:text-white transition">"I received a section 21 notice."</button></div><p class="text-xs mt-4 italic">Tip: The more detail you provide, the better the guidance.</p></div></div>
+                    <div id="loading-indicator" class="hidden my-4 text-center p-4"><div id="loader-spinner" class="loader ease-linear rounded-full border-4 border-t-4 border-main h-8 w-8 mx-auto mb-4"></div><p id="loading-text" class="text-sm text-subtle"></p></div>
+                    <div class="mt-4 flex items-center"><input type="text" id="chat-input" class="w-full bg-primary text-main p-3 border border-main rounded-lg focus:ring-2 focus:ring-[var(--accent-primary)] transition" placeholder="Type your tenancy question here..."><button id="chat-submit" class="ml-3 p-3 accent-bg text-white rounded-lg hover:opacity-90 transition"><i class="fas fa-paper-plane"></i></button></div>
+                    <div class="mt-4 text-xs text-subtle text-center"><p>This guidance is based on information from sources like Shelter, Citizens Advice, and gov.uk. It is for informational purposes only and is not legal advice. AI can make mistakes; always verify critical information.</p></div>
+                </div>
+                <div id="generated-content-card" class="bg-card p-6 rounded-2xl shadow-lg hidden">
+                    <div class="flex justify-between items-center mb-4"><h2 id="generated-content-title" class="text-xl font-bold flex items-center"></h2><button id="close-generated-content-btn" class="text-2xl text-subtle hover:text-main">&times;</button></div>
+                    <div id="generated-content-body" class="p-4 bg-primary rounded-lg text-sm font-mono whitespace-pre-wrap"></div>
+                    <div class="mt-4 flex gap-4"><button id="copy-content-btn" class="cta-button w-full flex items-center justify-center gap-2 font-bold py-2 px-4 rounded-lg"><i class="fas fa-copy"></i>Copy Content</button><button class="edit-draft-btn w-full flex items-center justify-center gap-2 bg-gray-600 text-white font-bold py-2 px-4 rounded-lg hover:bg-gray-700 transition"><i class="fas fa-edit"></i>Edit Draft</button></div>
+                </div>
+            </div>
+            <div class="lg:col-span-2 flex flex-col gap-8">
+                <div id="quick-actions-card" class="bg-card p-6 rounded-2xl shadow-xl border border-transparent">
+                     <div class="flex justify-between items-center mb-4">
+                        <h2 id="quick-actions-title" class="text-xl font-bold flex items-center"><i class="fas fa-bolt mr-3 accent-text"></i>Action Toolkit</h2>
+                        <div id="ai-analysis-badge" class="hidden items-center"><p class="text-sm flex items-center"><i class="fas fa-circle-nodes mr-2 text-green-400 animate-pulse"></i></p><span id="analysis-confidence-badge" class="bg-green-500 text-green-900 text-xs font-bold px-3 py-1 rounded-full"></span></div>
+                     </div>
+                     <div id="quick-actions-container" class="grid grid-cols-1 gap-4">
+                        <button data-action="email_landlord" class="action-btn primary p-4 rounded-lg text-left flex items-center" disabled><i class="fas fa-user-tie fa-fw mr-3"></i><span>Write an email to Landlord</span></button>
+                        <button data-action="email_council" class="action-btn secondary p-4 rounded-lg text-left flex items-center" disabled><i class="fas fa-building-columns fa-fw mr-3"></i><span>Write an email to Council</span></button>
+                        <button data-action="dispute_message" class="action-btn secondary p-4 rounded-lg text-left flex items-center" disabled><i class="fas fa-file-signature fa-fw mr-3"></i><span>Write a dispute message</span></button>
+                        <button data-action="step_by_step_guide" class="action-btn secondary p-4 rounded-lg text-left flex items-center" disabled><i class="fas fa-list-check fa-fw mr-3"></i><span>Provide a step-by-step guide</span></button>
+                        <button data-action="call_council" class="action-btn secondary p-4 rounded-lg text-left flex items-center" disabled><i class="fas fa-phone fa-fw mr-3"></i><span>Prep for a Call with the Council</span></button>
+                     </div>
+                </div>
+                <div id="location-card" class="bg-card p-6 rounded-2xl shadow-lg transition-all"><h2 class="text-xl font-bold mb-4 flex items-center"><i class="fas fa-map-marker-alt mr-3 accent-text"></i>Your Location</h2><label for="postcode-input" class="block text-sm font-medium text-subtle mb-1">Postcode</label><p class="text-xs text-subtle mb-2">Enter your postcode to get quick links for your local council.</p><div class="flex items-center"><input type="text" id="postcode-input" class="w-full bg-primary text-main p-3 border border-main rounded-lg focus:ring-2 focus:ring-[var(--accent-primary)] transition" placeholder="e.g., SW1A 0AA"><button id="postcode-submit" class="ml-3 p-3 accent-bg text-white rounded-lg hover:opacity-90 transition"><i class="fas fa-check"></i></button></div><div id="council-output" class="mt-4 hidden"></div></div>
+            </div>
+        </main>
+
+        <footer id="page-footer" class="text-center py-8 mt-16 border-t border-main text-subtle text-sm">
+            <p>&copy; 2025 The Tenant's Voice. All rights reserved.</p>
+            <div class="mt-2">
+                <a href="story.html" class="accent-text hover:underline">About</a>
+                <span class="mx-2">|</span>
+                <a href="cookie-policy.html" class="accent-text hover:underline">Cookie Policy</a>
+                <span class="mx-2">|</span>
+                <a href="#" id="thank-creator-btn" class="accent-text hover:underline">Thank the Creator</a>
+            </div>
+        </footer>
+    </div>
+    
+    <div id="cookie-banner" class="fixed bottom-0 left-0 right-0 p-4 flex flex-col sm:flex-row justify-between items-center z-50 hidden" style="background-color: var(--bg-secondary); color: var(--text-primary); border-top: 1px solid var(--border-primary);"><p class="text-sm mb-2 sm:mb-0 mr-4">We use local storage to remember your chat and preferences. See our <a href="cookie-policy.html" class="underline accent-text hover:opacity-80">Cookie Policy</a> for details.</p><button id="accept-cookies" class="cta-button text-white font-bold py-2 px-4 rounded-lg whitespace-nowrap">Got it!</button></div>
+    <button id="help-btn" class="fixed bottom-8 right-8 accent-bg hover:opacity-90 text-white rounded-full w-14 h-14 flex items-center justify-center shadow-lg z-50 transition-transform hover:scale-110"><i class="fas fa-question fa-lg"></i></button>
+    <div id="help-modal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50 hidden"><div class="bg-card rounded-2xl shadow-lg p-6 w-full max-w-md"><div class="flex justify-between items-center mb-6"><h2 class="text-xl font-bold">Provide Feedback</h2><button id="close-help-modal-btn" class="text-2xl text-subtle hover:text-main">&times;</button></div><div id="feedback-options" class="grid grid-cols-1 gap-3"><button data-feedback-type="Functionality Broken" class="feedback-option-btn bg-primary p-4 rounded-lg text-left hover:bg-opacity-80 border border-main w-full">Functionality Broken</button><button data-feedback-type="Suggest an Improvement" class="feedback-option-btn bg-primary p-4 rounded-lg text-left hover:bg-opacity-80 border border-main w-full">Suggest an Improvement</button><button data-feedback-type="Information Incorrect" class="feedback-option-btn bg-primary p-4 rounded-lg text-left hover:bg-opacity-80 border border-main w-full">Information is Incorrect</button><button data-feedback-type="Something Else" class="feedback-option-btn bg-primary p-4 rounded-lg text-left hover:bg-opacity-80 border border-main w-full">Something Else</button></div></div></div>
+    <div id="thank-creator-modal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50 hidden"><div class="bg-card rounded-2xl shadow-lg p-6 w-full max-w-md text-center"><div class="flex justify-between items-center mb-6"><h2 class="text-xl font-bold">Thank the Creator</h2><button id="close-thank-creator-modal-btn" class="text-2xl text-subtle hover:text-main">&times;</button></div><p class="text-subtle mb-6">If you found this tool helpful, here are a couple of ways to show your appreciation:</p><div class="grid grid-cols-1 gap-4"><button id="send-email-thanks-btn" class="bg-primary p-4 rounded-lg hover:bg-opacity-80 border border-main w-full">Send a thank you email</button><div id="buy-me-a-coffee-container" class="mt-2"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="OscarC" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script></div></div></div></div>
+
+    <script type="module">
+        import { createClient } from 'https://esm.sh/@supabase/supabase-js@2'
+
+        const SUPABASE_URL = 'https://clupjuazbftwanbmiuls.supabase.co'; 
+        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNsdXBqdWF6YmZ0d2FuYm1pdWxzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg3NDA0NzQsImV4cCI6MjA3NDMxNjQ3NH0.si9lYev37cYUB7unzhNsaDmVQHv8iFLNlI2Xjyon7uE'; 
+
+        let supabase;
+        try { supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY); } catch (error) { console.error("Failed to initialize Supabase client.", error); }
+        
+        const chatHistoryEl = document.getElementById('chat-history');
+        const chatInput = document.getElementById('chat-input');
+        const chatSubmit = document.getElementById('chat-submit');
+        const clearChatBtn = document.getElementById('clear-chat-btn');
+        const loadingIndicator = document.getElementById('loading-indicator');
+        const loadingText = document.getElementById('loading-text');
+        let loadingInterval;
+        const quickActionsCard = document.getElementById('quick-actions-card');
+        const quickActionsContainer = document.getElementById('quick-actions-container');
+        const quickActionsTitle = document.getElementById('quick-actions-title');
+        const aiAnalysisBadge = document.getElementById('ai-analysis-badge');
+        const analysisConfidenceBadge = document.getElementById('analysis-confidence-badge');
+        const generatedContentCard = document.getElementById('generated-content-card');
+        const generatedContentTitle = document.getElementById('generated-content-title');
+        const generatedContentBody = document.getElementById('generated-content-body');
+        const chatEmptyState = document.getElementById('chat-empty-state');
+        const locationCard = document.getElementById('location-card');
+        let chatMessages = [];
+
+        const loadingMessages = ["Analyzing your situation...","Consulting legal guides and sources...","Cross-referencing tenancy laws...","Verifying Information","Formulating your next steps..."];
+        
+        const handleChatSubmit = async () => {
+            const userQuery = chatInput.value.trim();
+            if (!userQuery) return;
+            chatEmptyState.classList.add('hidden');
+            appendMessage(userQuery, 'user');
+            chatInput.value = '';
+            startLoadingIndicator();
+            try {
+                const { data: guidance, error } = await getGuidance(userQuery, chatMessages);
+                if (error) { throw new Error(error.message || 'The Edge Function returned an error.'); }
+                
+                if (guidance && typeof guidance.text === 'string') {
+                    appendMessage(guidance.text, 'ai', false, guidance.sources);
+                    displayQuickActions(guidance.actions);
+                    if (guidance.analysis && guidance.analysis.confidence) {
+                        analysisConfidenceBadge.textContent = guidance.analysis.confidence;
+                        aiAnalysisBadge.classList.remove('hidden');
+                        aiAnalysisBadge.classList.add('flex');
+                    }
+                } else {
+                    const errorMessage = (guidance && guidance.error) ? guidance.error : 'The AI returned an unexpected response format.';
+                    appendMessage(`Sorry, something went wrong. Details: ${errorMessage}`, 'ai', true);
+                }
+            } catch (error) {
+                console.error('Error in handleChatSubmit:', error);
+                appendMessage(`Sorry, something went wrong. Details: ${error.message}`, 'ai', true);
+            } finally {
+                stopLoadingIndicator();
+            }
+        };
+        
+        function appendMessage(text, sender, isError = false, sources = [], shouldSave = true) {
+            if (typeof text !== 'string') { console.error("appendMessage called with non-string text:", text); return; }
+            if (shouldSave) { chatMessages.push({ text, sender, sources }); saveChatHistory(); }
+            const messageWrapper = document.createElement('div');
+            messageWrapper.className = `flex flex-col ${sender === 'user' ? 'items-end' : 'items-start'}`;
+            const messageBubble = document.createElement('div');
+            const bubbleClasses = sender === 'user' ? 'chat-bubble-user text-white' : (isError ? 'bg-red-800 text-red-100' : 'chat-bubble-ai text-white');
+            messageBubble.className = `p-3 rounded-lg max-w-xl ${bubbleClasses}`;
+            messageBubble.innerHTML = text.replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/\n/g, '<br>');
+            messageWrapper.appendChild(messageBubble);
+            if (sender === 'ai' && !isError && sources && sources.length > 0) {
+                const sourcesContainer = document.createElement('div');
+                sourcesContainer.className = 'mt-2 text-xs text-subtle';
+                sourcesContainer.innerHTML = '<strong>Sources:</strong> ' + sources.map(s => `<a href="${s.url}" target="_blank" rel="noopener noreferrer" class="underline accent-text">${s.title}</a>`).join(', ');
+                messageWrapper.appendChild(sourcesContainer);
+            }
+            chatHistoryEl.appendChild(messageWrapper);
+            chatHistoryEl.scrollTop = chatHistoryEl.scrollHeight; 
+        }
+
+        function displayQuickActions(actions) {
+            const allActionButtons = document.querySelectorAll('#quick-actions-container .action-btn');
+            allActionButtons.forEach(button => { button.disabled = true; });
+
+            if (actions && actions.length > 0) {
+                quickActionsTitle.innerHTML = `<i class="fas fa-tasks mr-3 accent-text"></i>Recommended Actions`;
+                actions.forEach(actionKey => {
+                    const button = document.querySelector(`.action-btn[data-action="${actionKey}"]`);
+                    if (button) button.disabled = false;
+                });
+                quickActionsCard.classList.add('card-highlight-animation');
+                setTimeout(() => { quickActionsCard.classList.remove('card-highlight-animation'); }, 1500);
+            }
+        }
+
+        function startLoadingIndicator(){loadingIndicator.classList.remove("hidden");let e=0;loadingText.textContent=loadingMessages[e];loadingInterval=setInterval(()=>{e=(e+1)%loadingMessages.length;loadingText.textContent=loadingMessages[e]},2500)}
+        function stopLoadingIndicator(){loadingIndicator.classList.add("hidden");clearInterval(loadingInterval)}
+        function saveChatHistory(){localStorage.setItem("tenantVoiceChatHistory",JSON.stringify(chatMessages))}
+        function loadChatHistory(){const e=localStorage.getItem("tenantVoiceChatHistory");if(e)try{const t=JSON.parse(e);if(Array.isArray(t)&&t.length>0){chatMessages=t;chatHistoryEl.innerHTML="";chatEmptyState.classList.add("hidden");chatMessages.forEach(e=>{e&&"string"==typeof e.text&&appendMessage(e.text,e.sender,!1,e.sources,!1)})}else chatEmptyState.classList.remove("hidden")}catch(e){console.error("Could not parse chat history",e);localStorage.removeItem("tenantVoiceChatHistory");chatEmptyState.classList.remove("hidden")}else chatEmptyState.classList.remove("hidden")}
+        
+        async function getGuidance(query, chatHistory) {
+          return await supabase.functions.invoke('get-guidance', { body: { query, chatHistory } });
+        }
+        async function getGeneratedContent(actionKey, chatHistory) {
+          const { data, error } = await supabase.functions.invoke('get-generated-content', { body: { actionKey, chatHistory } });
+          if (error) throw error;
+          return data;
+        }
+
+        chatSubmit.addEventListener("click",handleChatSubmit);
+        chatInput.addEventListener("keypress",e=>{"Enter"===e.key&&handleChatSubmit()});
+        clearChatBtn.addEventListener("click",()=>{chatMessages=[];localStorage.removeItem("tenantVoiceChatHistory");chatHistoryEl.querySelectorAll(".flex-col").forEach(e=>e.remove());generatedContentCard.classList.add("hidden");aiAnalysisBadge.classList.add("hidden");chatEmptyState.classList.remove("hidden");quickActionsTitle.innerHTML='<i class="fas fa-bolt mr-3 accent-text"></i>Action Toolkit';document.querySelectorAll("#quick-actions-container .action-btn").forEach(e=>{e.disabled=!0})});
+        chatHistoryEl.addEventListener("click",e=>{const t=e.target.closest(".example-prompt-btn");if(t){chatInput.value=t.textContent.replace(/"/g,"");handleChatSubmit()}});
+        
+        const postcodeSubmit=document.getElementById("postcode-submit"),postcodeInput=document.getElementById("postcode-input"),councilOutput=document.getElementById("council-output");
+        
+        async function handlePostcodeSubmit(){
+            const e=postcodeInput.value.trim();
+            if(locationCard.classList.remove("council-card-success"),!e)return councilOutput.innerHTML='<p class="text-red-400 p-2">Please enter a valid UK postcode.</p>',void councilOutput.classList.remove("hidden");
+            councilOutput.innerHTML='<p class="p-2">Finding your local council...</p>';councilOutput.classList.remove("hidden");
+            try{
+                const t=await fetch(`https://api.postcodes.io/postcodes/${encodeURIComponent(e)}`);
+                if(!t.ok)throw new Error("Could not find information for that postcode.");
+                const o=await t.json();
+                if(200===o.status&&o.result&&o.result.admin_district){
+                    locationCard.classList.add("council-card-success");
+                    const e=o.result.admin_district;
+                    const t=[{key:"Housing Department",term:`${e} council housing department`},{key:"Tenancy Relations",term:`${e} council tenancy relations officer`},{key:"Environmental Health",term:`${e} council environmental health disrepair`},{key:"Report a Problem",term:`${e} council report a problem with landlord`}];
+                    const n=t.map(e=>`<a href="https://www.google.com/search?q=${encodeURIComponent(e.term)}" target="_blank" rel="noopener noreferrer" class="council-link block bg-primary p-3 rounded-lg text-left border border-main w-full mb-2"><i class="fas fa-search fa-fw mr-2"></i> Find the <strong>${e.key}</strong></a>`).join("");
+                    councilOutput.innerHTML=`<p class="font-bold mb-3">Your Local Council is ${e}.</p><p class="text-sm text-subtle mb-4">Use these links to find the right department:</p>${n}`
+                } else throw new Error("Postcode was valid, but no council found.")
+            } catch(e) {
+                councilOutput.innerHTML=`<p class="text-red-400 p-2">Error: ${e.message}</p>`
+            }
+        }
+        postcodeSubmit.addEventListener("click",handlePostcodeSubmit);
+        postcodeInput.addEventListener("keypress",e=>{"Enter"===e.key&&handlePostcodeSubmit()});
+        
+        quickActionsContainer.addEventListener("click",async e=>{
+            const t=e.target.closest("button[data-action]");
+            if(!t||t.disabled)return;
+            const o=t.innerHTML,n=t.dataset.action,a=t.querySelector("span").textContent||"Generated Content";
+            t.disabled=!0;t.innerHTML='<i class="fas fa-spinner fa-spin mr-3"></i> Generating...';
+            generatedContentCard.classList.add("hidden");
+            try{
+                 const e = await getGeneratedContent(n, chatMessages);
+                if(e&&"string"==typeof e.text){generatedContentTitle.innerHTML=`<i class="fas fa-file-alt mr-3 accent-text"></i> ${a}`;generatedContentBody.textContent=e.text;generatedContentCard.classList.remove("hidden");generatedContentCard.scrollIntoView({behavior:"smooth",block:"nearest"})}
+                else{const t=e&&e.error?e.error:"The AI returned an unexpected response format for the generated content.";appendMessage(`Sorry, something went wrong. Details: ${t}`,"ai",!0)}
+            }catch(e){
+                console.error("Error in getGeneratedContent:",e);
+                appendMessage(`Sorry, there was an error generating the content. Details: ${e.message}`,"ai",!0)
+            }finally{t.disabled=!1;t.innerHTML=o}
+        });
+        
+        document.getElementById("close-generated-content-btn").addEventListener("click",()=>{generatedContentCard.classList.add("hidden");quickActionsCard.scrollIntoView({behavior:"smooth",block:"center"})});
+        document.getElementById("copy-content-btn").addEventListener("click",()=>{const e=document.getElementById("copy-content-btn"),t=generatedContentBody.textContent;navigator.clipboard&&t&&navigator.clipboard.writeText(t).then(()=>{e.innerHTML='<i class="fas fa-check mr-2"></i> Copied!';setTimeout(()=>{e.innerHTML='<i class="fas fa-copy mr-2"></i>Copy Content'},2e3)}).catch(e=>{console.error("Failed to copy text: ",e)})});
+        document.querySelector(".edit-draft-btn").addEventListener("click",()=>{const e=document.querySelector(".edit-draft-btn"),t=generatedContentBody.isContentEditable;t?(generatedContentBody.contentEditable=!1,generatedContentBody.style.outline="none",e.innerHTML='<i class="fas fa-edit mr-2"></i>Edit Draft'):(generatedContentBody.contentEditable=!0,generatedContentBody.focus(),generatedContentBody.style.outline="2px solid var(--accent-primary)",e.innerHTML='<i class="fas fa-save mr-2"></i> Save Changes')});
+        
+        const helpBtn=document.getElementById("help-btn"),helpModal=document.getElementById("help-modal"),closeHelpModalBtn=document.getElementById("close-help-modal-btn"),feedbackOptions=document.getElementById("feedback-options");
+        helpBtn.addEventListener("click",()=>helpModal.classList.remove("hidden"));
+        closeHelpModalBtn.addEventListener("click",()=>helpModal.classList.add("hidden"));
+        helpModal.addEventListener("click",e=>{e.target===helpModal&&helpModal.classList.add("hidden")});
+        feedbackOptions.addEventListener("click",e=>{const t=e.target.closest(".feedback-option-btn");if(!t)return;const o=t.dataset.feedbackType,n="oscarcraven@gmail.com",a=`The Tenant's Voice Feedback: ${o}`,i=`Feedback regarding: ${o}\n\n[Please describe the issue or suggestion in detail here]`;window.location.href=`mailto:${n}?subject=${encodeURIComponent(a)}&body=${encodeURIComponent(i)}`;helpModal.classList.add("hidden")});
+        
+        const lightThemeBtn=document.getElementById("light-theme-btn"),darkThemeBtn=document.getElementById("dark-theme-btn");
+        function applyTheme(e){document.documentElement.setAttribute("data-theme",e);localStorage.setItem("theme",e);"dark"===e?(darkThemeBtn.style.backgroundColor="var(--accent-primary-bg)",darkThemeBtn.style.color="white",lightThemeBtn.style.backgroundColor="transparent",lightThemeBtn.style.color="var(--text-secondary)"):(lightThemeBtn.style.backgroundColor="var(--accent-primary-bg)",lightThemeBtn.style.color="white",darkThemeBtn.style.backgroundColor="transparent",darkThemeBtn.style.color="var(--text-secondary)")}
+        const savedTheme=localStorage.getItem("theme"),prefersDark=window.matchMedia("(prefers-color-scheme: dark)").matches;
+        savedTheme?applyTheme(savedTheme):prefersDark?applyTheme("dark"):applyTheme("light");
+        lightThemeBtn.addEventListener("click",()=>applyTheme("light"));
+        darkThemeBtn.addEventListener("click",()=>applyTheme("dark"));
+        
+        document.addEventListener("DOMContentLoaded",()=>{
+            const e=document.getElementById("cookie-banner"),t=document.getElementById("accept-cookies"),o=document.getElementById("help-btn");
+            if(e&&t&&o&&!localStorage.getItem("cookieConsent")){
+                e.classList.remove("hidden");e.classList.add("flex");
+                setTimeout(()=>{const banner=document.getElementById("cookie-banner");const e=banner.offsetHeight;o.style.transition="bottom 0.3s ease";o.style.bottom=`${e+32}px`},100)
+            }
+            if(t&&o){t.addEventListener("click",()=>{localStorage.setItem("cookieConsent","true");e.style.display="none";o.style.bottom="2rem"})}
+            
+            const n=document.getElementById("thank-creator-btn"),a=document.getElementById("thank-creator-modal"),i=document.getElementById("close-thank-creator-modal-btn"),r=document.getElementById("send-email-thanks-btn");
+            if(n){n.addEventListener("click",e=>{e.preventDefault();a.classList.remove("hidden")})}
+            if(i){i.addEventListener("click",()=>a.classList.add("hidden"))}
+            if(a){a.addEventListener("click",e=>{e.target===a&&a.classList.add("hidden")})}
+            if(r){r.addEventListener("click",()=>{const e="oscarcraven@gmail.com",t="Thank you for The Tenant's Voice!",o="Hi Oscar,\n\nI just wanted to say thank you for creating this tool. It was really helpful!\n\nBest,";window.location.href=`mailto:${e}?subject=${encodeURIComponent(t)}&body=${encodeURIComponent(o)}`;a.classList.add("hidden")})}
+            
+            const l=document.getElementById("scroll-to-chat-btn");
+            if(l){l.addEventListener("click",e=>{e.preventDefault();document.getElementById("main-grid").scrollIntoView({behavior:"smooth"})})}
+        });
+        
+        loadChatHistory();
+    </script>
+</body>
+</html>

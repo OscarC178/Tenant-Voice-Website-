@@ -1,0 +1,26 @@
+Source URL: https://england.shelter.org.uk/housing_advice/eviction/section_21_eviction/how_to_check_a_section_21_notice_is_valid
+Scrape Date: 28 September 2025
+Last Modified: Fri Apr 06 2012
+---
+
+Some landlords cannot use the section 21 eviction process because they make mistakes on the notice or have broken other rules. If the notice is not valid, your landlord cannot use it to evict you. Your landlord must give you a valid notice to start the eviction process.
+
+1. Are the form and dates right?
+Your section 21 notice must be on Form 6A. Your notice will not be valid if the notice period is less than 2 months, you get the notice during the first 4 months of your original tenancy, or your landlord applies to court more than 6 months after giving you the notice. The notice period runs from the date your landlord gives you the notice until the date the notice says you have to leave by.
+
+2. Is your deposit protected?
+Your landlord cannot give you a valid section 21 if your deposit is not protected in a scheme or it was protected late. For most renters, late protection means more than 30 days after your most recent contract started. If you paid your deposit before 6 April 2012, there are different rules about late protection. Your landlord must also give you certain written information about the deposit and the scheme before they can give you a valid section 21 notice.
+
+3. Have you had your tenancy documents?
+Your landlord cannot usually give you a valid section 21 notice unless they give you a gas safety certificate, an energy performance certificate (EPC), and the How to rent guide on GOV.UK. This only applies if your tenancy started or was renewed on or after 1 October 2015. You should get all these documents before the start of your tenancy. If your landlord gives you these documents late, your notice can still be valid as long as you get them before or at the same time as the section 21. All the documents must be current copies when your landlord gives them to you. The EPC and How to rent guide could be out of date by the time you get the section 21 but a gas safety certificate must be the current copy.
+
+4. Charged too much deposit or a banned fee?
+If your tenancy started on or after 1 June 2019, most tenancy related fees are banned. This includes tenancy renewals on or after this date. If your tenancy started before this date, the ban only applies to fees charged from 1 June 2020. Landlords and agents can only take up to 5 weeks' rent as a deposit and charge fees in certain situations. If your landlord overcharged you, they must pay back any overcharged fees or deposit before they can give you a section 21 notice. If your letting agent overcharged you, your landlord can still give you a section 21 notice. But you could argue that the agent did it on the landlord's behalf.
+
+5. Does your landlord need a licence?
+Many houses in multiple occupation (HMOs), such as bedsits and B&Bs, need a licence. In some areas all private landlords must have a licence. A landlord who needs a licence cannot serve a valid section 21 notice unless they have or have applied for a licence from the council or a temporary exemption.
+
+6. Is it revenge eviction because of repairs?
+Your landlord might give you a section 21 notice if you ask for repairs. The section 21 notice will not be valid if you complained to your council about repairs and they gave your landlord an improvement notice or an emergency works notice. Your landlord cannot use a section 21 notice for 6 months after they get one of these.
+
+If the notice is valid, your tenancy continues until either you leave the property voluntarily or you're evicted through the legal process. You do not have to leave straight away even if you have rent arrears.

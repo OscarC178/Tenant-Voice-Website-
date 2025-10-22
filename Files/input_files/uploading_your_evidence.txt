@@ -1,0 +1,32 @@
+Source URL: https://www.depositprotection.com/disputes/uploading-your-evidence
+Scrape Date: 28 September 2025
+Last Modified: Mon Jul 24 2023
+---
+
+When landlords and tenants agree to use our free Dispute Resolution Service to resolve their deposit dispute, they need to submit evidence to support their claims within 14 days.
+Our online Evidence Upload service makes evidence submission fast and easy for Custodial deposit disputes. Through your DPS account you can submit your supporting evidence with just a few clicks and upload multiple files up to 40MB per submission. If 40MB still isn’t enough, there’s no limit to the number of submissions you can make within the 14-day evidence gathering window.
+Evidence Upload is easy to use
+
+Log into your DPS account, open the ‘View tenancies’ page, and click ‘Submit evidence’ to access the ‘Your evidence’ page.
+On the ‘Your evidence’ page, you can view your evidence submission deadline date and a summary of disputed deductions. You can review the deductions before moving down the page to the submit evidence section.
+Click ‘Upload evidence’ and select the files you want to submit as evidence (see what file types you can upload below). You can add any extra information about your claim that you didn’t include when recording your deductions reasons in the ‘Additional information to support your claim’ section. The field is limited to 1000 characters so if you need to provide more information than the field allows, please create a separate file such as a word or text document and upload this as a part of your evidence submission.
+Check you’re happy with the evidence you’re uploading – you can delete evidence at this point, but not after submission. When you’re satisfied with the files you’ve added, click ‘Submit’.
+
+If you have no evidence to submit, tick the box to confirm you have no supporting evidence and click ‘Submit’. You can add an explanation why you have no evidence to submit in the ‘Additional information to support your claim’ section.
+You’ll need to confirm you haven’t included any illegal or offensive imagery in your evidence, accept the legal disclaimer and confirm you’re not a robot.
+
+You’ll receive a message to confirm if the submission was successful or not . If you have more evidence to upload you can repeat the process until you’ve uploaded all your evidence.
+On the ‘Your evidence’ page, review the list of the supporting evidence and additional information you’ve submitted to make sure it has been uploaded successfully.
+If the evidence deadline has passed, you can review your supporting evidence by navigating to the ‘View tenancy’ page and clicking ‘Your evidence’. You won’t be able to submit further evidence once the deadline has passed.
+
+What file types can I upload?
+You can upload evidence up to 40MB per submission in the following file formats:
+
+Documents: .doc, .docx, .txt, .rtf, .pdf, .xls, .xlsx, .csv, .msg
+Images: .jpg, .png, .gif
+Videos: .asf, .wmv, .avi, .mpg, .mov, .mp4
+
+Can I share files from my cloud storage?
+Unfortunately, we can’t access files that are uploaded from cloud storage, meaning we can’t view your evidence if you try to do this. Please save your files to your device before uploading them.
+Can I still use email to submit my supporting evidence?
+From 24 July 2023, we’ll no longer accept evidence by email. Our online Evidence Upload service will be the easiest and fastest way to send us your evidence, though you’ll still be able to send your evidence by post if you prefer.

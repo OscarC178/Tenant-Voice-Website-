@@ -1,0 +1,1337 @@
+Date Scraped: 5 August 2025
+Date Modified: 21 March 2025
+Source URL: https://www.legislation.gov.uk/ukpga/1980/51
+---
+
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Housing Act 1980
+1980 CHAPTER 51
+An Act to give security of tenure, and the right to buy their homes, to tenants of local authorities and other bodies; to make other provision with respect to those and other tenants; to amend the law about housing finance in the public sector; to make other provision with respect to housing; to restrict the discretion of the court in making orders for possession of land; and for connected purposes. [8th August 1980]
+Modifications etc. (not altering text) C1 Whole Act repealed (S.) by Housing (Scotland) Act 1987 (c. 26, SIF 61), s. 339(3), Sch. 24 C2 Act: transfer of functions (W.) (1.7.1999) by S.I. 1999/672, art. 2, Sch. 1
+PART I
+1—50. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F1
+Textual Amendments F1 Ss. 1–50 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), ss. 3, 5(2), Sch. 1
+Pt. I, Sch. 4 para. 8
+2 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART II
+PRIVATE SECTOR TENANTS
+Protected shorthold tenancies
+51 Preliminary.
+Sections 53 to 55 below modify the operation of the 1977 Act in relation to protected shorthold tenancies as defined in section 52 below.
+52 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F2
+Textual Amendments F2 S. 52 repealed with saving by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18 Note 2
+53 Right of tenant to terminate protected shorthold tenancy.
+(1) A protected shorthold tenancy may be brought to an end (by virtue of this section and notwithstanding anything in the terms of the tenancy) before the expiry of the term certain by notice in writing of the appropriate length given by the tenant to the landlord; and the appropriate length of the notice is—
+(a) one month if the term certain is two years or less; and (b) three months if it is more than two years.
+(2) Any agreement relating to a protected shorthold tenancy (whether or not contained in the instrument creating the tenancy) shall be void in so far as it purports to impose any penalty or disability on the tenant in the event of his giving a notice under this section.
+54 Subletting or assignment.
+(1) Where the whole or part of a dwelling-house let under a protected shorthold tenancy has been sublet at any time during the continuous period specified in subsection (3) below, and, during that period, the landlord becomes entitled, as against the tenant, to possession of the dwelling-house, he shall also be entitled to possession against the sub-tenant and section 137 of the 1977 Act shall not apply.
+(2) A protected shorthold tenancy of a dwelling-house and any protected tenancy of the same dwelling-house granted during the continuous period specified in subsection (3) below shall not be capable of being assigned, [F3except in pursuance of an order under —.
+(a) section 24 of the Matrimonial Causes Act 1973 (property adjustment orders in connection with matrimonial proceedings),
+(b) section 17(1) of the Matrimonial and Family Proceedings Act 1984 (property adjustment orders after overseas divorce, &c.), F4...
+(c) paragraph 1 of Schedule 1 to the Children Act 1989 (orders for financial relief against parents)][F5, or
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+3
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(d) Part 2 of Schedule 5, or paragraph 9(2) or (3) of Schedule 7, to the Civil Partnership Act 2004 (property adjustment orders in connection with civil partnership proceedings or after overseas dissolution of civil partnership, etc.).]
+(3) The continuous period mentioned in subsections (1) and (2) above is the period beginning with the grant of the protected shorthold tenancy and continuing until either—
+(a) no person is in possession of the dwelling-house as a protected or statutory tenant; or
+(b) a protected tenancy of the dwelling-house is granted to a person who is not, immediately before the grant, in possession of the dwelling-house as a protected or statutory tenant.
+Textual Amendments F3 Words in s. 54(2) substituted (1.10.1996) by 1996 c. 52, s. 222, Sch. 18 Pt. III para. 7; S.I.
+1996/2402, art. 3 F4 Word in s. 54(2)(b) repealed (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(b)(d), Sch.
+30; S.I. 2005/3175, art. 2(6) F5 S. 54(2)(d) and word inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8
+para. 16; S.I. 2005/3175, art. 2(1), Sch. 1
+55 Orders for possession.
+(1) The following Case shall be added to the Cases in Part II of Schedule 15 to the 1977 Act (mandatory orders for possession) : Case 19
+Where the dwelling-house was let under a protected shorthold tenancy (or is treated under section 55 of the Housing Act 1980 as having been so let) and—
+(a) there either has been no grant of a further tenancy of the dwelling-house since the end of the protected shorthold tenancy or, if there was such a grant, it was to a person who immediately before the grant was in possession of the dwelling-house as a protected or statutory tenant ; and
+(b) the proceedings for possession were commenced after appropriate notice by the landlord to the tenant and not later than 3 months after the expiry of the notice.
+A notice is appropriate for this Case if— (i) it is in writing and states that proceedings for possession, under this
+Case may be brought after its expiry ; and (ii) it expires not earlier than 3 months after it is served nor, if, when it is
+served, the tenancy is a periodic tenancy, before that periodic tenancy could be brought to an end by a notice to quit served by the landlord on the same day ;
+(iii) it is served— (a) in the period of 3 months immediately preceding the date on which the
+protected shorthold tenancy comes to an end ; or (b) if that date has passed, in the period of 3 months immediately preceding any
+anniversary of that date ; and
+4 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(iv) in a case where a previous notice has been served by the landlord on the tenant in respect of the dwelling-house, and that notice was an appropriate notice, it is served not earlier than 3 months after the expiry of the previous notice.”
+(2) If, in proceedings for possession under Case 19 set out above, the court is of opinion that, notwithstanding that the condition of paragraph (b) or (c) of section 52(1) above is not satisfied, it is just and equitable to make an order for possession, it may treat the tenancy under which the dwelling-house was let as a protected shorthold tenancy.
+Modifications etc. (not altering text) C3 Case 19 means Case 19 to Rent Act 1977 (c. 42, SIF 75:3), Sch. 15 Pt. II C4 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Assured tenancies
+56—58. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F6
+Textual Amendments F6 Ss. 56–58 repealed with saving by Housing Act 1988 (c. 50, SIF 61), ss. 37(1), 140, Sch. 18 Note 3
+Rents
+59 Rent officers and applications for registration of rent.
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F7
+(2) In section 67 of the 1977 Act (application for registration of rent) for subsection (2) there is substituted the following subsection—
+“(2) Any such application must be in the prescribed form and must— (a) specify the rent which it is sought to register ; (b) where the rent includes any sum payable by the tenant to the landlord
+for services and the application is made by the landlord, specify that sum and be accompanied by details of the expenditure incurred by the landlord in providing those services ; and
+(c) contain such other particulars as may be prescribed.”
+(3) Schedule 6 to this Act has effect, in relation to applications made after the commencement of this subsection, for the purpose of amending the procedure provided for by the 1977 Act in relation to applications for the registration of rent.
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+5
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments F7 S. 59(1) repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+Modifications etc. (not altering text) C5 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F8
+Textual Amendments F8 S. 60 repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+61 Effect of registration of rent etc.
+(1) For section 72 of the 1977 Act (effect of registration of rent) there is substituted the following section—
+“72 Effect of registration of rent.
+(1) The registration of a rent for a dwelling-house takes effect— (a) if the rent is determined by the rent officer, from the date when it is
+registered, and (b) if the rent is determined by a rent assessment committee, from the
+date when the committee make their decision.
+(2) If the rent for the time being registered is confirmed, the confirmation takes effect—
+(a) if it is made by the rent officer, from the date when it is noted in the register, and
+(b) if it is made by a rent assessment committee, from the date when the committee make their decision.
+(3) If (by virtue of section 67(4) of this Act) an application for registration of a rent is made before the expiry of the period mentioned in section 67(3) and the resulting registration of a rent for the dwelling-house, or confirmation of the rent for the time being registered, would, but for this subsection, take effect before the expiry of that period it shall take effect on the expiry of that period.
+(4) The date from which the registration or confirmation of a rent takes effect shall be entered in the register.
+(5) As from the date on which the registration of a rent takes effect any previous registration of a rent for the dwelling-house ceases to have effect.
+(6) Where a valid notice of increase under any provision of Part III of this Act has been served on a tenant and, in consequence of the registration of a rent, part
+6 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+but not the whole of the increase specified in the notice becomes irrecoverable from the tenant, the registration shall not invalidate the notice, but the notice shall, as from the date from which the registration takes effect, have effect as if it specified such part only of the increase as has not become irrecoverable.”.
+(2) For subsections (4) to (6) of section 13 of the Rent (Agriculture) Act 1976 (efrect of registration of rent) there are substituted the following subsections—
+“(4) The registration of a rent in the said part of the register takes effect— (a) if the rent is determined by the rent officer, from the date when it is
+registered, and (b) if the rent is determined by a rent assessment committee, from the
+date when the committee make, their decision.
+(5) If the rent for the time being registered in the said part of the register is confirmed, the confirmation takes effect—
+(a) if it is made by the rent officer, from the date when it is noted in the register, and
+(b) if it is made by a rent assessment committee, from the date when the committee make their decision.
+(6) If (by virtue of section 67(4) of the Rent Act 1977, as applied by subsection (2) above) an application for registration of a rent is made before the expiry of the period mentioned in section 67(3) and the resulting registration of a rent for the dwelling-house, or confirmation of the rent for the time being registered, would, but for this subsection, take effect before the expiry of that period it shall take effect on the expiry of that period.
+(6A) The date from which the registration or confirmation of a rent takes effect shall be entered in the said part of the register.
+(6B) As from the date on which the registration of a rent takes effect any previous registration of a rent for the dwelling-house ceases to have effect.”
+(3) In Part VI of the 1977 Act (rent limit for dwellings let by housing associations, housing trusts and the Housing Corporation)
+(a) in section 87 (registration of rent), in subsection (2)(a) for the words “and 70” there are substituted the words “70 and 72” and subsections (3) to (5) are hereby repealed ; and
+(b) subsections (1) and (2) of section 96 (effect of determination by rent assessment committee) are hereby repealed.
+(4) In section 45 of the 1977 Act (limit of rent during statutory periods) in subsection (3) for the words “on which the rent was registered” there are substituted the words “from which the registration of the rent took effect”.
+(5) In section 67 of the 1977 Act, for subsection (5) (meaning of “relevant date” in relation to applications for registration of rent) there is substituted the following subsection—
+“(5) In this section and sections 68 and 69 of this Act “relevant date”, in relation to a rent which has been registered under this Part of this Act, means the date from which the registration took effect or, in the case of a registered rent which has been confirmed, the date from which the confirmation (or, where there have been two or more successive confirmations, the last of them) took effect.”.
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+7
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) In Schedule 6 to the Rent (Agriculture) Act 1976 and in Schedule 8 to the 1977 Act (phasing of rent increases)—
+(a) in paragraph 1(1)— (i) in the definition of “period of delay” for the words from “means” to
+the end there are substituted the words “means— (a) if the registered rent has been confirmed
+by a rent assessment committee, a period beginning with the date from which the registration of the rent took effect and ending one year after the date on which the committee took their decision; and
+(b) in any other case, a period of one year beginning with the date from which the registration took effect.”.
+(ii) in the definition of “previous rent limit” for the words “at the date of registration” there are substituted the words “immediately before the relevant date” ; and
+(iii) before the definition of “service element” there is inserted the following definition—
+“relevant date” means, in relation to a registered rent— (a) if the rent was determined by the rent officer (and whether or not it was
+confirmed by a rent assessment committee), the date on which the rent was registered by the rent officer; and
+(b) if the rent was determined by a rent assessment committee, the date on which the rent officer registered the rent determined by him or, as the case may be, noted in the register his confirmation of the rent for the time being registered.;
+(b) for paragraph 4 there is substituted the following paragraph—
+“4 Where the registration of a rent takes effect in a period of delay which began by reference to an earlier registration, then—
+(a) from the date on which the later registration takes effect the limitation under that period of delay shall cease to apply; and
+(b) a fresh period of delay shall begin by reference to the later registration”; and
+(c) paragraphs 7 (in Schedule 6) and 8 (in Schedule 8) are hereby repealed.
+(7) In Schedule 11 to the 1977 Act (procedure on application for registration of rent), in paragraph 9(2) for the word “accordingly” there are substituted the words “of their decision and of the date on which it was made”.
+(8) Subsections (1) to (5) above do not apply in any case where, on the determination or confirmation of a rent by the rent officer, the rent determined by him is registered, or his confirmation is noted in the register, before the commencement of this section.
+Modifications etc. (not altering text) C6 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted:
+8 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+62 Cancellation of registration of rent.
+(1) Section 73 of the 1977 Act is amended as follows.
+(2) After subsection (1) there is inserted the following subsection: —
+“(1A) Such an application may also be made where— (a) not less than two years have elapsed since the relevant date (as defined
+in section 67(5) of this Act); and (b) the dwelling-house is not for the time being subject to a regulated
+tenancy; and (c) the application is made by the person who would be the landlord if
+the dwelling-house were let on such a tenancy.”
+(3) For subsection (3) there is substituted the following subsection—
+“(3) An application under this section must— (a) be in the form prescribed for the application concerned and contain
+the prescribed particulars; and (b) be accompanied, in the case of an application under subsection (1)
+above, by a copy of the rent agreement.”.
+(4) In subsection (4)— (a) after the word “If” there are inserted the words “the application is made under
+subsection (1) above and”; and (b) at the end there are inserted the words “and he shall also cancel the registration
+if the application is made under subsection (1A) above”.
+(5) In subsection (5) after the word “Where” there are inserted the words “the application is made under subsection (1) above and”.
+(6) In subsection (6) for the words “The cancellation” there are substituted the words “A cancellation made in pursuance of an application under subsection (1) above”.
+Modifications etc. (not altering text) C7 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+63 Repeal of sections 48 and 50 of Rent Act 1977.
+Section 48 of the 1977 Act (increase, on account of improvements, of recoverable rent for statutory periods before registration) and section 50 of that Act (private street works to count as improvements) are hereby repealed.
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+9
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Modifications etc. (not altering text) C8 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Conversion of controlled tenancies
+64 Conversion of controlled tenancies into regulated tenancies.
+(1) At the commencement of this section every controlled tenancy shall cease to be a controlled tenancy and become a regulated tenancy, except in the case mentioned in subsection (2) below.
+(2) If the controlled tenancy is one to which Part II of the M1Landlord and Tenant Act 1954 would apply, apart from section 24(2) of the 1977 Act, or would so apply if it were a tenancy within the meaning of the Act of 1954, it shall, when it ceases to be a controlled tenancy, be treated as a tenancy continuing by virtue of section 24 of the Act of 1954 after the expiry of a term of years certain.
+Marginal Citations M1 1954 c. 56(75:1).
+Regulated tenancies
+65 Resident landlords
+(1) In section 12(1) of the 1977 Act (certain tenancies granted by resident landlords not to be protected tenancies) for paragraphs (a) to (c) there are substituted the following paragraphs—
+“(a) the dwelling-house forms part only of a building and, except in a case where the dwelling-house also forms part of a flat, the building is not a purpose-built block of flats; and
+(b) the tenancy was granted by a person who, at the time when he granted it, occupied as his residence another dwelling-house which—
+(i) in the case mentioned in paragraph (a) above, also forms part of the flat; or
+(ii) in any other case, also forms part of the building; and (c) subject to paragraph 1 of Schedule 2 to this Act, at all times since the
+tenancy was granted the interest of the landlord under the tenancy has belonged to a person who, at the time he owned that interest, occupied as his residence another dwelling-house which—
+(i) in the case mentioned in paragraph (a) above, also formed part of the flat; or
+(ii) in any other case, also formed part of the building.”
+10 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) Schedule 2 to the 1977 Act (provisions for determining application of section 12) is amended as follows.
+(3) In paragraph 1— (a) in sub-paragraph (a) for the words “14 days” there are substituted the words
+“28 days” and after the the word “building” there are inserted the words “or, as the case may be, flat”;
+(b) in sub-paragraph (b) for the words “such dwelling-house as is referred to in that paragraph” there are substituted the words “dwelling-house in the building or, as the case may be, flat concerned”; and
+(c) in sub-paragraph (c) for the words “12 months” there are substituted the words “2 years” and paragraph (i) is hereby repealed.
+(4) In paragraph 2(b) after the word “ building” there are inserted the words “or, as the case may be, flat”.
+(5) After paragraph 2 there is inserted the following paragraph—
+“2A (1) The tenancy referred to in section 12(1) falls within this paragraph if the
+interest of the landlord under the tenancy becomes vested in the personal representatives of a deceased person acting in that capacity.
+(2) If the tenancy falls within this paragraph, the condition in section 12(1)(c) shall be deemed to be fulfilled for any period, beginning with the date on which the interest becomes vested in the personal representatives and not exceeding two years, during which the interest of the landlord remains so vested.”
+(6) Subject to subsection (7) below, this section, except subsection (1), applies to tenancies granted before as well as those granted after the commencement of this section.
+(7) In any case where the interest of the landlord under a tenancy vested in the personal representatives (acting in that capacity) of a person who died before the commencement of this section, Schedule 2 to the 1977 Act applies as if paragraph 2A had not been inserted and paragraph 1(c)(i) had not been repealed.
+Modifications etc. (not altering text) C9 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+66 Amendment of Cases 11 and 12 of Schedule 15 to Rent Act 1977.
+(1) In Case 11 in Schedule 15 to the 1977 Act (dwelling-house required by a person who was owner occupier at time of letting) for paragraph (c) there is substituted the following paragraph—
+“(c) the court is of the opinion that of the conditions set out in Part V of this Schedule one of those in paragraphs (a) and (c) to (f) is satisfied.”
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+11
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) In Case 12 in Schedule 15 (dwelling-house required for use by owner on his retirement) for paragraph (c) there is substituted the following paragraph—
+“(c) the court is of the opinion that of the conditions set out in Part V of this Schedule one of those in paragraphs (b) to (e) is satisfied.”
+(3) There are inserted in Schedule 15, as a new Part V, the provisions set out in Schedule 7 to this Act; and in section 98 of the 1977 Act (which, among other things, introduces Schedule 15) there is added, at the end, the following subsection—
+“(5) Part V of Schedule 15 shall have effect for the purpose of setting out conditions which are relevant to Cases 11 and 12 of that Schedule.”
+(4) In Case 12 for the words from the beginning to “employment let” there are substituted the words “Where the landlord (in this Case referred to as “the owner”) intends to occupy the dwelling-house as his residence at such time as he might retire from regular employment and has let”.
+(5) Subject to subsection (6) below, Cases 11 and 12, as amended by this section, apply to tenancies granted before, as well as those granted after, the commencement of this section; and nothing in this section invalidates a notice that possession might be recovered under Case 11 or Case 12 which was duly given to a tenant before then.
+(6) Paragraphs (c) and (d) of Part V of Schedule 15 do not apply to Case 11 if the tenancy was granted, and the owner died, before the commencement of this section; and paragraph (d) does not apply to Case 12 in any such case.
+Modifications etc. (not altering text) C10 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+67 Lettings by servicemen.
+The following Case shall be added to the Cases in Part II of Schedule 15 to the 1977 Act (mandatory orders for possession) after the Case inserted in Part II by section 55 of this Act—
+Case 20
+Where the dwelling-house was let by a person (in this Case referred to as “the owner”) at any time after the commencement of section 67 of the Housing Act 1980 and—
+(a) at the time when the owner acquired the dwelling-house he was a member of the regular armed forces of the Crown;
+(b) at the relevant date the owner was a member of the regular armed forces of the Crown;
+(c) not later than the relevant date the owner gave notice in writing to the tenant that possession might be recovered under this Case;
+(d) the dwelling-house has not, since the commencement of section 67 of the Act of 1980 been let by the owner on a protected tenancy with respect to which the condition mentioned in paragraph (c) above was not satisfied; and
+(e) the court is of the opinion that—
+12 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(i) the dwelling-house is required as a residence for the owner; or (ii) of the conditions set out in Part V of this Schedule one of those in
+paragraphs (c) to (f) is satisfied.
+If the court is of the opinion that, notwithstanding that the condition in paragraph (c) or (d) above is not complied with, it is just and equitable to make an order for possesion of the dwelling-house, the court may dispense with the requirements of either or both of these paragraphs, as the case may require.
+For the purposes of this Case “regular armed forces of the Crown” has the same meaning as in section 1 of the House of Commons Disqualification Act 1975.”
+Modifications etc. (not altering text) C11 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Rent agreements
+68 Rent agreements with tenants having security of tenure.
+(1) In section 51(4) of the 1977 Act (requirements to be observed in rent agreements with tenants having security of tenure), in paragraph (b) the following sub-paragraph is inserted after sub-paragraph (i)—
+“(ia) that if the agreement were not made but instead a rent were registered under Part IV of this Act, then part only of any increase over the rent previously recoverable by the landlord would be payable by the tenant during the first year; and”
+(2) For section 52 of the 1977 Act (which makes special provision, in the case of converted tenancies, in relation to rent agreements with tenants having security of tenure) there is substituted the following section—
+“52 Protection: special provisions following conversion.
+(1) This section applies to an agreement with a tenant having security of tenure which is entered into after the commencement of section 68(2) of the Housing Act 1980 if the tenancy has become or, as the case may be, the previous tenancy became a regulated tenancy by conversion.
+(2) Any such agreement which purports to increase the rent payable under a protected tenancy shall, if entered into at a time when no rent is registered for the dwelling-house under Part IV of this Act, be void.
+(3) If any such agreement constitutes a grant of a regulated tenancy and is made at a time when no rent is so regitered, any excess of the rent payable under the tenancy so granted (for any contractual or statutory period of the tenancy) over the rent limit applicable to the previous tenancy, shall be irrecoverable
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+13
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+from the tenant ; but this subsection ceases to apply if a rent is subsequently so registered.
+(4) For the purposes of this section a tenancy is a regulated tenancy by conversion if it has become a regulated tenancy by virtue of—
+(a) Part VIII of this Act, section 43 of the Housing Act 1969 or Part III or IV of the Housing Finance Act 1972 (conversion of controlled tenancies into regulated tenancies); or
+(b) section 18(3) of this Act or paragraph 5 of Schedule 2 to the Rent Act 1968 (conversion on death of first successor); or
+(c) section 64 of the Housing Act 1980 (conversion of all remaining controlled tenancies).
+(5) This section does not apply to any to any agreement where the tenant is neither the person who, at the time of the conversion, was the tenant nor a person who might succeed the tenant at that time as a statutory tenant.
+(6) Where a rent is registered for the dwelling-house and the registration is subsequently cancelled, this section shall not apply to the agreement submitted to the rent officer in connection with the cancellation nor to any agreement made so as to take effect after the cancellation.”
+(3) In section 57 of the 1977 Act (recovery from landlord of sums paid in excess of recoverable rent, etc.) for subsection (3) there is substituted the following subsection—
+“(3) No amount which a tenant is entitled to recover under subsection (1) above shall be recoverable at any time after the expiry of—
+(a) one year, in the case of an amount which is irrecoverable by virtue of section 54 of this Act; or
+(b) two years, in any other case.”
+Modifications etc. (not altering text) C12 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Restricted contracts
+69 Restricted contracts: security of tenure.
+(1) In section 3 of the M2 Protection from Eviction Act 1977 (prohibition of eviction without due process of law), after subsection (2) there is inserted the following subsection—
+“(2A) Subsections (1) and (2) above apply in relation to any restricted contract (within the meaning of the Rent Act 1977) which—
+(a) creates a licence; and (b) is entered into after the commencement of section 69 of the Housing
+Act 1980; as they apply in relation to a restricted contract which creates a tenancy.”
+14 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) After section 106 of the 1977 Act there is inserted the following section:—
+“106A Discretion of court in certain proceedings for possession.
+(1) This section applies to any dwelling house which is the subject of a restricted contract entered into after the commencement of section 69 of the Housing Act 1980.
+(2) On the making of an order for possession of such a dwelling-house, or at any time the execution of such an order, the court may—
+(a) stay or suspend execution of the order, or (b) postpone the date of possession,
+for such period or periods as, subject to subsection (3) below, the court thinks fit.
+(3) Where a court makes an order for possession of such a dwelling-house, the giving up of possession shall not be postponed (whether by the order or any variation, suspension or stay of execution) to a date later than 3 months after the making of the order.
+(4) On any such stay, suspension or postponement as is referred to in subsection (2) above, the court shall, unless it considers that to do so would cause exceptional hardship to the lessee or would otherwise be unreasonable, impose conditions with regard to payment by the lessee of arrears of rent (if any) and rent or payments in respect of occupation after termination of the tenancy (mesne profits) and may impose such other conditions as it thinks fit.
+(5) Subsection (6) below applies in any case where— (a) proceedings are brought for possession of such a dwelling-house; (b) the lessee’s spouse or former spouse, having rights of occupation
+under the Matrimonial Homes Act 1967, is the in occupation of the dwelling-house; and
+(c) the restricted contract is terminated as a result of those proceedings.
+(6) In any case to which this subsection applies, the spouse or former spouse shall, so long as he or she remains in occupation, have the same rights in relation to, or in connection with, any such stay, suspension or postponement as is referred to in subsection (2) above, as he or she would have if those rights of occupation were not affected by the termination of the restricted contract.”
+(3) Sections 103 to 106 of the 1977 Act (security of tenure in respect of restricted contracts) shall not apply to restricted contracts entered into after the commencement of this section; and accordingly after section 102 of that Act there is inserted the following section—
+“102A Restricted application of sections 103 to 106.
+Sections 103 to 106 of this Act apply only to restricted contracts entered into before the commencement of section 69 of the Housing Act 1980.”.
+(4) In section 12 of the 1977 Act, for subsections (2) and (3) (cases where tenancies granted by resident landlords are not exempted by section 12 from being protected tenancies), there is substituted the following subsection—
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+15
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“(2) This section does not apply to a tenancy of a dwelling-house which forms part of a building if the tenancy is granted to a person who, immediately before it was granted, was a protected or statutory tenant of that dwelling-house or of any other dwelling-house in that building.”
+Modifications etc. (not altering text) C13 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Marginal Citations M2 1977 c. 43.
+70 Reconsideration of registered rents under Part V of Rent Act 1977.
+(1) In section 80(2) of the 1977 Act (which in certain circumstances prevents an application for a new registered rent for a dwelling-house which is the subect of a restricted contract from being made within 3 years of the date of an existing registration), for the words “3 years” there are substituted the words “2 years”.
+(2) This section does not apply in any case where the date from which the period during which no application for registration can be made is to be calculated falls before the commencement of this section.
+Modifications etc. (not altering text) C14 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+71 Cancellation of rents registered under Part V of Rent Act 1977.
+(1) After section 81 of the 1977 Act (effect of registration of rent under section 79) there is inserted the following section—
+“81A Cancellation of registration of rent
+(1) Where the rent payable for any dwelling is entered in the register under section 79 of this Act, the rent tribunal shall cancel the entry, on an application made under this section, if—
+(a) not less than two years have elapsed since the date of entry; (b) the dwelling is not for the time being subject to a restricted contract;
+and (c) the application is made by the person who would be the lessor if the
+dwelling were subject to a restricted contract.
+16 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) An application under this section must be in the prescribed form, and contain the prescribed particulars.
+(3) Cancellation of the registration shall be without prejudice to a further registration of a rent at any time after the cancellation.
+(4) The rent tribunal shall notify the applicant of their decision to grant, or to refuse, any application under this section.”
+(2) In Schedule 10 to the 1977 Act (rent assessment committees), in paragraph 5 for the words “paragraph 6” there are substituted the words “paragraphs 6 and 6A” and after paragraph 6 there is inserted the following paragraph—
+“6A When dealing with an application under section 81A of this Act a rent assessment committee carrying out the functions of a rent tribunal shall consist of the chairman of the committee sitting alone.”
+Modifications etc. (not altering text) C15 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+F972 Functions of rent tribunals.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments F9 S. 72 omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036),
+art. 1, Sch. 1 para. 37 (with Sch. 3)
+Miscellaneous
+73 Dwellings forming part of Crown Estate or belonging to Duchies.
+(1) The following section is substituted for section 13 of the 1977 Act:
+(1) Except as provided by subsection (2) below— (a) a tenancy shall not be a protected tenancy at any time when the interest
+of the landlord under the tenancy belongs to Her Majesty in right of the Crown or to a government department or is held in trust for Her Majesty for the purposes of a government department ; and
+(b) a person shall not at any time be a statutory tenant of a dwelling-house if the interest of his immediate lanlord would at that time belong or be held as mentioned in paragraph (a) above.
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+17
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) An interest belonging to Her Majesty in right of the Crown shall not prevent a tenancy from being a protected tenancy or a person from being a statutory tenant if the interest is under the management of the Crown Estate Commissioners.”
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F10
+(3) In section 5 of the M3 Rent (Agriculture) Act 1976 the following is substituted for subsection (1):
+“(1) A person shall not at any time be a statutory tenant of a dwelling-house if the interest of his immediate landlord would, at that time—
+(a) belong to Her Majesty in right of the Crown or to a government department, or
+(b) be held in trust for Her Majesty for the purposes of a government department ;
+except that an interest belonging to Her Majesty in right of the Crown shall not prevent a person from being a statutory tenant if the interest is under the management of the Crown Estate Commissioners.”
+(4) In the M4 Landlord and Tenant Act 1954— (a) the following is inserted at the end of section 56 :
+“(7) Part I of this Act shall apply where— (a) there is an interest belonging to Her Majesty in right of
+the Crown and that interest is under the management of the Crown Estate Commissioners ; or
+(b) there is an interest belonging to Her Majesty in right of the Duchy of Lancaster or belonging to the Duchy of Cornwall ;
+as if it were an interest not so belonging.”; (b) in section 21(6) the following is substituted for the definition of “ interest not
+bound by this Part of this Act” :
+“In this subsection “interest not bound by this Part of this Act” means an interest which belongs to Her Majesty in right of the Crown and is not under the management of the Crown Estate Commissioners or an interest belonging to a government department or held on behalf of Her Majesty for the purposes of a government department.”
+(5) Schedule 8 to this Act has effect for making certain provisions consequential on this section.
+Textual Amendments F10 S. 73(2) repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+Modifications etc. (not altering text) C16 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+18 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Marginal Citations M3 1976 c. 80 M4 1954 c. 56.
+74 Housing association and housing trust tenancies under Rent Act 1977.
+(1) In section 15 of the 1977 Act (tenancies not protected when landlord’s interest belongs to housing association or housing trust etc.) subsection (4), and in subsection (1) the words “ in respect of which any of the conditions specified in subsection (4) below is fulfilled”, are hereby repealed.
+(2) For subsection (5) of section 15 there is substituted the following subsection—
+“(5) In subsection (2) above “ housing trust” means a corporation or body of persons which—
+(a) is required by the terms of its constituent instrument to use the whole of its funds, including any surplus which may arise from its operations, for the purpose of providing housing accommodation ; or
+(b) is required by the terms of its constituent instrument to devote the whole, or substantially the whole, of its funds to charitable purposes and in fact uses the whole, or substantially the whole, of its funds for the purpose of providing housing accommodation.”.
+(3) Schedule 9 to this Act has effect for the purpose of supplementing this section.
+Modifications etc. (not altering text) C17 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+75 Proceedings for possession of certain dwelling-houses.
+(1) Section 100 of the 1977 Act (which gives the court an extended discretion in actions for possession of certain dwelling-houses) is amended as follows.
+(2) For subsection (3) there is substituted the following subsection—
+“(3) On any such adjournment as is referred to in subsection (1) above or any such stay, suspension or postponement as is referred to in subsection (2) above, the court shall, unless it considers that to do so would cause exceptional hardship to the tenant or would otherwise be unreasonable, impose conditions with regard to payment by the tenant of arrears of rent (if any) and rent or payments in respect of occupation after termination of the tenancy (mesne profits) and may impose such other conditions as it thinks fit.”
+(3) After subsection (4) there are inserted the following subsections—
+“(4A) Subsection (4B) below applies in any case where— (a) proceedings are brought for possession of a dwelling-house which is
+let on a protected tenancy or subject to a statutory tenancy ;
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+19
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b) the tenant’s spouse or former spouse, having rights of occupation under the Matrimonial Homes Act 1967, is then in occupation of the dwelling-house ; and
+(c) the tenancy is terminated as a result of those proceedings.
+(4B) In any case to which this subsection applies, the spouse or former spouse shall, so long as he or she remains in occupation, have the same rights in relation to, or in connection with, any such adjournment as is referred to in subsection (1) above or any such stay, suspension or postponement as is referred to in subsection (2) above, as he or she would have if those rights of occupation were not affected by the termination of the tenancy.”
+(4) Section 7 of the M5 Rent (Agriculture) Act 1976 (which corresponds to section 100 of the 1977 Act) is amended as follows.
+(5) After subsection (2) there is inserted the following subsection—
+“(2A) In those cases the court may adjourn for such period or periods as it thinks fit.”
+(6) For subsection (4) there is substituted the following subsection—
+“(4) On any such adjournment as is referred to in subsection (2A) above or any such stay, suspension or postponement as is referred to in subsection (3) above, the court shall, unless it considers that to do so would cause exceptional hardship to the tenant or would otherwise be unreasonable, impose conditions with regard to payment by the tenant of arrears of rent (if any) and rent or payments in respect of occupation after termination of the tenancy (mesne profits) and may impose such other conditions as it thinks fit.”.
+(7) After subsection (5) there are inserted the following subsections—
+“(5A) Subsection (5B) below applies in any case where— (a) proceedings are brought for possession of a dwelling-house which is
+subject to a protected occupancy or statutory tenancy ; (b) the tenant’s spouse or former spouse, having rights of occupation
+undr the Matrimonial Homes Act 1967, is then in occupation of the dwelling-house ; and
+(c) the tenancy is terminated as a result of those proceedings.
+(5B) In any case to which this subsection applies, the spouse or former spouse shall, so long as he or she remains in occupation, have the same rights in relation to or in connection with any such adjournment as is referred to in subsection (2A) above or any such stay, suspension or postponement as is referred to in subsection (3) above as he or she would have if those rights of occupation were not affected by the termination of the tenancy.”
+Modifications etc. (not altering text) C18 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+20 Housing Act 1980 (c. 51) Part II – Private Sector Tenants
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Marginal Citations M5 1976 c. 80.
+76 Statutory tenancies by succession.
+(1) In Schedule 1 to the 1977 Act, for paragraph 2 (under which on the death of the original tenant under a protected or statutory tenancy his widow if residing with him at his death becomes a statutory tenant by succession) there is substituted the following paragraph—
+“2 The surviving spouse (if any) of the original tenant, if residing in the dwelling-house immediately before the death of the original tenant, shall after the death be the statutory tenant if and so long as he or she occupies the dwelling-house as his or her residence.”
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F11
+(3) In [F12sections 3(3)(a) and 4(4)(a)] of the M6 Rent (Agriculture) Act 1976 (which correspond to provisions in Schedule 1 to the 1977 Act) for the words “ with him at his death” there shall be substituted in each case the words “ in the dwelling-house immediately befor his death”.
+(4) The amendments made by this section have effect only in relation to deaths occurring after the commencement of the subsection concerned.
+Textual Amendments F11 S. 76(2) repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18 F12 Words in s. 76(3) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para.
+17; S.I. 2005/3175, art. 2(1), Sch. 1
+Modifications etc. (not altering text) C19 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Marginal Citations M6 1976 c. 80.
+77 Amendment of Part VI of Rent Act 1977.
+Part VI of the 1977 Act (rent limit for dwellings let by housing associations, housing trusts and the Housing Corporation) is amended in accordance with the provisions of Schedule 10 to this Act.
+78 Allowable premiums in relation to certain long tenancies.
+(1) Section 127 of the 1977 Act shall have effect and be deemed always to have had effect as if for paragraph (c) of subsection (2) there were substituted the paragraph set out
+Housing Act 1980 (c. 51) Part II – Private Sector Tenants Document Generated: 2025-03-21
+21
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+in subsection (2) below and at the end of subsection (5) there were added the words set out in subsection (3) below.
+(2) The substituted paragraph is— “(c) that the terms of the tenancy do not inhibit both the assignment and the
+underletting of the whole of the premises comprised in the tenancy.”
+(3) The added words are “ and for the purposes of subsections (2)(c) and (3B)(d) above the terms of a tenancy inhibit an assignment or underletting if they—”
+(a) preclude it ; or (b) permit it subject to a consent but exclude section 144 of the Law of Property
+Act 1925 (no payment in nature of fine) ; or (c) permit it subject to a consent but require in connection with a request for
+consent the making of an offer to surrender the tenancy.
+(4) After subsection (3) of section 127 there are inserted the following subsections—
+“(3A) If the conditions in subsection (3B) below are satisfied in respect of a tenancy, this Part of this Act shall not apply to that tenancy and, together with Part VII of the Rent Act 1968 and the enactments replaced by Part VII, shall be deemed never to have applied to it.
+(3B) The conditions are that— (a) the tenancy was granted before 16th July 1980 ; (b) a premium was lawfully required and paid on the grant of the tenancy ; (c) the tenancy was, at the time when it was granted, a tenancy at a low
+rent ; and (d) the terms of the tenancy do not inhibit both the assignment and the
+underletting of the whole of the premises comprised in the tenancy.
+(3C) If the conditions in subsection (3D) below are satisfied in respect of a tenancy, this section shall have effect, in relation to that tenancy, as if for the words “ 20 years” and “ 21 years”, in subsections (2)(b) and (3) above there were substituted, respectively, the words “ 6 years” and “ 7 years”.
+(3D) The conditions are that— (a) the tenancy is granted after 15th July 1980 ; (b) at the time when it is granted it is a tenancy at a low rent ; and (c) the terms of the tenancy ensure that any variation of the sums payable
+by the tenant otherwise than in respect of rates, services, repairs or maintenance, cannot lead to those sums exceeding an annual rate of two-thirds of the rateable value of the dwelling-house at the date when the variation is made.
+For the purposes of this subsection the rateable value of a dwelling-house shall be ascertained in accordance with section 25 of this Act (disregarding subsection (4)) by reference to the value shown in the valuation list at the date when the variation is made.”
+Modifications etc. (not altering text) C20 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted:
+22 Housing Act 1980 (c. 51) Part III – Tenant’s Repairs and Improvements
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+79 Meaning of “ premium” in Part IX of Rent Act 1977.
+In section 128 of the 1977 Act (interpretation of Part IX, which prohibits premiums etc.) for the definition of “ premium”, in subsection (1), there is substituted the following definition—
+““premium” includes— (a) any fine or other like sum ; (b) any other pecuniary consideration in addition to rent ; and (c) any sum paid by way of a deposit, other than one which does not
+exceed one-sixth of the annual rent and is reasonable in relation to the potential liability in respect of which it is paid.”
+Modifications etc. (not altering text) C21 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+PART III
+TENANT’S REPAIRS AND IMPROVEMENTS
+80 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F13
+Textual Amendments F13 S. 80 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1, Pt. I
+81 Tenant’s improvements.
+(1) The following provisions of this section have effect with respect to F14 protected tenancies and statutory tenancies in place of section 19(2) of the M7Landlord and Tenancy Act 1927.
+(2) It is by virtue of this section a term of every such tenancy that the tenant will not make any improvement without the written consent of the landlord.
+(3) The consent required by virtue of subsection (2) above is not to be unreasonably withheld and, if unreasonably withheld, shall be treated as given.
+(4) Subsections (1) to (3) above do not apply in any case where the tenant has been given a notice—
+Housing Act 1980 (c. 51) Part III – Tenant’s Repairs and Improvements Document Generated: 2025-03-21
+23
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a) of a kind mentioned in one of Cases 11 to 18 and 20 in Schedule 15 to the 1977 Act (notice that possession might be recovered under that Case); or
+(b) under section 52(1)(b) of this Act (notice that a tenancy is to be a protected shorthold tenancy);
+unless the tenant proves that, at the time when the landlord gave the notice, it was unreasonable for the landlord to expect to be able in due course to recover possession of the dwelling-house under that Case or, as the case may be, Case 19 of Schedule 15 (added by section 55 of this Act).
+(5) In Part I, and in this Part, of this Act “improvement” means any alteration in, or addition to, a dwelling-house and includes—
+(a) any addition to, or alteration in, landlord’s fixtures and fittings and any addition or alteration connected with the provision of any services to a dwelling-house;
+(b) the erection of any wireless or television aerial; and (c) the carrying out of external decoration;
+but paragraph (c) above does not apply in relation to a protected or statutory tenancy if the landlord is under an obligation to carry out external decoration or to keep the exterior of the dwelling-house in repair.
+Textual Amendments F14 Words repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+Marginal Citations M7 1927 c. 36(75:1).
+82 Provisions as to consents required by section 81.
+(1) If any question arises whether the withholding of a consent required by virtue of section 81 above was unreasonable it is for the landlord to show that it was not; and in determining that question the court shall, in particular, have regard to the extent to which the improvement would be likely—
+(a) to make the dwelling-house, or any other premises, less safe for occupiers; (b) to cause the landlord to incur the expenditure which it would be unlikely to
+incur if the improvement were not made; or (c) to reduce the price which the dwelling-house would fetch if sold on the open
+market or the rent which the landlord would be able to charge on letting the dwelling-house.
+(2) A consent required by virtue of section 81 may be validly given notwithstanding that it follows, instead of preceding, the action requiring it and may be given subject to a condition.
+(3) Where the tenant has applied in writing for a consent which is required by virtue of section 81 then—
+(a) if the landlord refuses to give the consent it shall give to the tenant a written statement of the reasons why the consent was refused; and
+(b) if the landlord neither gives nor refuses to give the consent within a reasonable time, the consent shall be taken to have been withheld, and if the landlord
+24 Housing Act 1980 (c. 51) Part III – Tenant’s Repairs and Improvements
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+gives the consent but subject to an unreasonable condition, the consent shall be taken to have been unreasonably withheld.
+(4) If any question arises whether a condition attached to a consent was reasonable, it is for the landlord to show that it was.
+83 Conditional consent to tenant’s improvements.
+Any failure by F15 a protected tenant or a statutory tenant to satisfy any reasonable condition imposed by his landlord in giving consent to an improvement which the tenant proposes to make, or has made, shall be treated F15 for the purposes of the 1977 Act as a breach by the tenant of an obligation of his tenancy or, as the case may be, of an obligation of the previous protected tenancy which is applicable to the statutory tenancy.
+Textual Amendments F15 Words repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+84 Exclusion of certain housing associations from Part III.
+This Part of this Act does not apply in relation to a housing association which falls within paragraph (d) of section 15(3) of the 1977 Act (certain societies registered under the M8Industrial and Provident Societies Act 1965).
+Marginal Citations M8 1965 c. 12.
+85 Interpretation and application of Part III.
+(1) In this Part of this Act any expression used F16 in the 1977 Act has the same meaning as in F16 that Act.
+(2) This Part of this Act applies to tenancies granted before as well as tenancies granted after the commencement of this Part of this Act.
+Textual Amendments F16 Words repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+Housing Act 1980 (c. 51) Part IV – Jurisdiction and Procedure Document Generated: 2025-03-21
+25
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART IV
+JURISDICTION AND PROCEDURE
+86 Jurisdiction of county court and rules of procedure.
+[F17(1) [F18The county court] has jurisdiction to determine any question arising under Part III of this Act (tenant’s improvements) and to entertain any proceedings brought thereunder.
+(2) The jurisdiction conferred by this section includes jurisdiction to entertain proceedings on any question whether any consent required by section 81 was withheld or unreasonably withheld, notwithstanding that no other relief is sought than a declaration.]
+[F19(3) If a person takes proceedings in the High Court which, by virtue of this section, he could have taken in the county court he is not entitled to recover any costs.]
+F20(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F20(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F20(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments F17 S. 86(1)(2) substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2
+para. 44(2) F18 Words in s. 86(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para.
+52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+F19 S. 86(3) repealed (prosp.) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), ss. 124(3)(4), 125(7), Sch. 20
+F20 S. 86(4)-(6) repealed (3.4.2006) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 104, Sch. 18 Pt. 2; S.I. 2006/1014, art. 2(a), Sch. 1 paras. 11(e), 30(b)
+87 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F21
+Textual Amendments F21 S. 87 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3 Sch. 1 Pt. I
+88 Discretion of court in certain proceedings for possession.
+(1) Where, under the terms of a rental purchase agreement, a person has been let into possession of a dwelling-house and, on the termination of the agreement or of his right to possession under it, proceedings are brought for the possession of the dwelling-house, the court may—
+(a) adjourn the proceedings; or (b) on making an order for the possession of the dwelling-house, stay or suspend
+execution of the order or postpone the date of possession;
+26 Housing Act 1980 (c. 51) Parts V–VIII –
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+for such period or periods as the court thinks fit.
+(2) On any such adjournment, stay, suspension or postponement the court may impose such conditions with regard to payments by the person in possession in respect of his continued occupation of the dwelling-house and such other conditions as the court thinks fit.
+(3) The court may revoke or from time to time vary any condition imposed by virtue of this section.
+(4) In this section “rental purchase agreement” means an agreement for the purchase of a dwelling-house (whether freehold or leasehold property) under which the whole or part of the purchase price is to be paid in three or more instalments and the completion of the purchase is deferred until the whole or a specified part of the purchase price has been paid.
+(5) This section extends to proceedings for the possession of a dwelling-house which were begun before the commencement of this section unless an order for the possession of the dwelling-house was made in the proceedings and executed before the commencement of this section.
+89 Restriction on discretion of court in making orders for possession of land.
+(1) Where a court makes an order for the possession of any land in a case not falling within the exceptions mentioned in subsection (2) below, the giving up of possession shall not be postponed (whether by the order or any variation, suspension or stay of execution) to a date later than fourteen days after the making of the order, unless it appears to the court that exceptional hardship would be caused by requiring possession to be given up by that date; and shall not in any event be postponed to a date later than six weeks after the making of the order.
+(2) The restrictions in subsection (1) above do not apply if— (a) the order is made in an action by a mortgagee for possession; or (b) the order is made in an action for forfeiture of a lease; or (c) the court had power to make the order only if it considered it reasonable to
+make it; or (d) the order relates to a dwelling-house which is the subject of a restricted
+contract (within the meaning of section 19 of the 1977 Act); or (e) the order is made in proceedings brought as mentioned in section 88(1) above.
+PARTS V–VIII
+90— 133.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F22
+Textual Amendments F22 Ss. 90–137 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1
+Housing Act 1980 (c. 51) Part IX – General Document Generated: 2025-03-21
+27
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART IX
+GENERAL
+134— 137.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F23
+Textual Amendments F23 Ss. 90–137 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1
+138 Displacement of residential occupiers by housing authority.
+In section 42(1) of the M9 Land Compensation Act 1973 (which requires an authority acquiring or redeveloping land to indemnify another authority against the cost of rehousing a person displaced by the acquisition or redevelopment but only if the displacing authority is not an authority having functions under Part V of the 1957 Act) after the words “ Housing Act 1957” (in paragraph (b)) there are inserted the words “ or (if they are such an authority) the land is acquired or redeveloped by them otherwise than in the discharge of those functions”.
+Modifications etc. (not altering text) C22 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Marginal Citations M9 1973 c. 26.
+139 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F24
+Textual Amendments F24 S. 139 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. 1
+140 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F25
+Textual Amendments F25 S. 140 repealed with saving by Housing and Planning Act 1986 (c. 63, SIF 61), ss. 18, 24(3), Sch. 4
+paras. 7, 11(2), Sch. 12 Pt. I
+28 Housing Act 1980 (c. 51) Part IX – General
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+141 Amendments of Leasehold Reform Act 1967 etc.
+Sections 1, F26. . . 9, 16, 23, and 29 of, and Schedules 1 and 3 to, the Leasehold Reform Act 1967 and Schedule 8 to the 1974 Act are amended as shown in Schedule 21 to this Act.
+Textual Amendments F26 Word in s. 141 repealed (1.11.1993) by 1993, c. 28, s. 187(2), Sch. 22; S.I. 1993/2134, art. 5(a)
+Modifications etc. (not altering text) C23 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+142 Leasehold valuation tribunals. F27(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F28(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) F29... The 1967 Act is amended in accordance with [F30Schedule 22 to this Act].
+Textual Amendments F27 S. 142(1) omitted (1.7.2013) by virtue of The Transfer of Tribunal Functions Order 2013 (S.I.
+2013/1036), art. 1, Sch. 1 para. 38 (with Sch. 3) F28 S. 142(2) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act
+2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+F29 Words in s. 142(3) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+F30 Words in s. 142(3) substituted (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act 2002 (c. 15), s. 181(1), Sch. 13 para. 7(3); S.I. 2003/1986, art. 2(c)(i) (with Sch. 2); S.I. 2004/669, art. 2(c)(i) (with Sch. 2)
+143 Apportionment of rents.
+(1) Section 20(1) of the M10Landlord and Tenant Act 1927 (apportionment of certain rents and other payments) has effect as respects applications for apportionment made under that section after the passing of this Act with the substitution in the proviso of “£5” for “two pounds”.
+(2) The Secretary of State may by order vary the amount there mentioned.
+(3) After section 20(1) of the said Act there is inserted the following subsection—
+“(1A) An order of apportionment under sections 10 to 14 of the said Act of 1854 may provide for the amount apportioned to any part of the land in respect of which the rent or payment is payable to be nil.”
+Housing Act 1980 (c. 51) Part IX – General Document Generated: 2025-03-21
+29
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Modifications etc. (not altering text) C24 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Marginal Citations M10 1927 c. 36(75:1).
+144 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F31
+Textual Amendments F31 S. 144 repealed by (E.W.) Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1
+Pt. I and (S.) Housing (Scotland) Act 1987 (c. 26, SIF 61), s. 339(3), Sch. 24
+145— 147
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F32
+Textual Amendments F32 Ss. 145–147 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt.
+I
+148 Rent assessment panels : pensions for presidents and vice-presidents.
+In Schedule 10 to the 1977 Act (rent assessment committees) the following paragraph is inserted after paragraph 7—
+“7A The Secretary of State may, with the consent of the Minister for the Civil Service, provide for the payment of pensions, allowances or gratuities to or in respect of any person nominated to act as president or vice-president of a panel.”
+Modifications etc. (not altering text) C25 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+149 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F33
+30 Housing Act 1980 (c. 51) Part IX – General
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments F33 S. 149 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+Supplemental
+150 Interpretation.
+In this Act— “protected tenant” and “statutory tenant” have the same meanings as in the
+1977 Act; “secure tenant” means the tenant under a secure tenancy and “secure
+tenancy” has the meaning given by section 28; . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F34
+“the M111977 Act” means the Rent Act 1977. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F35
+Textual Amendments F34 Definitions repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I F35 Definition (inserted by Housing and Building Control Act 1984 (c. 29, SIF 61), s. 64, Sch. 11 para.
+29) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+Marginal Citations M11 1977 c. 42.
+151 Regulations and orders.
+(1) Any power of the Secretary of State to make an order or regulations under this Act shall be exercisable by statutory instrument subject, except in the case of regulations under section [F3622(1), 33(2),] 52(3), 56(7) [F36or paragraph 11 of Schedule 3] or an order under section F37 52(4), 60 or 153 to annulment in pursuance of a resolution of either House of Parliament.
+(2) No order under section 52(4) or 60 shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House of Parliament.
+(3) Any order or regulation under this Act may make different provision with respect to different cases or descriptions of case, including different provision for different areas.
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F38
+Textual Amendments F36 Words repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I F37 Words (inserted by Housing and Building Control Act 1984 (c. 29, SIF 61), s. 64, Sch. 11 para. 30)
+repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I F38 S. 151(4) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+Housing Act 1980 (c. 51) Part IX – General Document Generated: 2025-03-21
+31
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+152 Amendments, savings, transitional provisions and repeals.
+[F39(1) The enactments mentioned in Part I of Schedule 25 to this Act shall have effect subject to the amendments specified in that Schedule.]
+(2) The savings and transitional provisions in Part II of that Schedule shall have effect.
+(3) The enactments specified in the first column of Schedule 26 to this Act are hereby repealed to the extent specified in column 3 of that Schedule.
+Textual Amendments F39 S. 152(1) repealed (N.I.) by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1
+Pt. III
+Modifications etc. (not altering text) C26 The text of ss. 55(1), 59(2)(3), 61(1)–(7), 62, 63, 65(1)–(5), 66(1)–(4), 67–69, 70(1), 71, 73(1)–(4),
+74(1)(2), 75, 76, 78, 79, 138, 141, 143(3), 148, 152(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+153 Commencement.
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F40
+[F41(3) Sections F42 140, 150, 151, 152(2) and 153 to 155 shall come into operation on the passing of this Act.
+(4) The remaining provisions of this Act shall come into operation on such day as the Secretary of State may by order appoint; and—
+(a) different days may be appointed for different provisions; and (b) any provision may be brought into force on different days for England, Wales
+and Scotland.]
+Textual Amendments F40 S. 153(1)(2) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pts.
+I, III F41 S. 153(3)(4) repealed (N.I.) by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch.
+1 Pt. III F42 Words repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+Modifications etc. (not altering text) C27 S. 153(4) extended by New Towns Act 1981 (c. 64, SIF 123:3), ss. 50(8), 81, Sch. 11 para. 6 C28 Power of appointment conferred by s. 153(4) partly exercised: S.I. 1980/1406, 1466, 1557, 1693, 1706,
+1781; 1981/119, 296
+154 Expenses and receipts.
+(1) There shall be paid out of moneys provided by Parliament the administrative expenses of the Secretary of State under this Act and any increase attributable to this Act in the sums so payable under any other enactment.
+32 Housing Act 1980 (c. 51) Part IX – General
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F43
+Textual Amendments F43 S. 154(2) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[F44155 Short title and extent.
+(1) This Act may be cited as the Housing Act 1980.
+(2) Sections 114 to 116, 120 to 122(1), 123 to 133, 144, 151 to 153 of this Act, this section, Schedule 14, Part II of Schedule 16, paragraphs 1 to 3 of Schedule 17, Schedule 18, paragraphs 11 to 13, 24, 25 and 70 of Schedule 25 and the associated repeals in Schedule 26 extend to Scotland; but this Act does not otherwise so extend.
+(3) sections [F45111(8)] 152(1), 153, this section and paragraphs 11, 12, 18 and 19 of Part I of Schedule 25 extend to Northern Ireland; but this Act does not otherwise so extend.]
+Textual Amendments F44 S. 155 repealed (N.I.) by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt.
+III F45 Words inserted by S.I. 1983/1122, arts 1, 3
+Housing Act 1980 (c. 51) SCHEDULES 1—4A Document Generated: 2025-03-21
+33
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+S C H E D U L E S
+F46F46SCHEDULES 1—4A
+Textual Amendments F46 Schs. 1–4A repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F46
+SCHEDULE 5
+APPLICATION OF LANDLORD AND TENANT ACT 1954 TO ASSURED TENANCIES
+1 The exceptions and modifications referred to in section 58(1) and (2) of this Act are as follows.
+2 Sections 23, 43 and 56 to 60B do not apply. 3 In relation to an assured tenancy the expression “the holding” (which is defined for
+the purposes of Part II in section 23(3) means the property comprised in the tenancy. 4 (1) Section 30 applies as if—
+(a) for paragraph (d) in subsection (1) there were substituted the following paragraph—
+“(d) that the landlord has offered and is willing to provide or secure the provision of suitable alternative accommodation for the tenant,”;
+(b) in subsection (2) for the words from “a tenancy” to the end there were substituted the words “an assured tenancy or successive assured tenancies”; and
+(c) at the end there were added the subsections set out in sub-paragraph (2) below.
+(2) The following are the subsections added to section 30 in its application to assured tenancies—
+“(4) Accommodation shall be deemed to be suitable if it consists of either— (a) premises which are to be let as a separate dwelling such that they
+will then be let on an assured tenancy or on a protected or secure tenancy, or
+(b) premises to be let as a separate dwelling on terms which will, in the opinion of the court, afford to the tenant security of tenure reasonably equivalent to that afforded by this Part of this Act in the case of an assured tenancy,
+and, in the opinion of the court, the accommodation fulfils the conditions mentioned below.
+34 Housing Act 1980 (c. 51) SCHEDULE 5 – Application of Landlord and Tenant Act 1954 to Assured Tenancies
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) The conditions are that the accommodation is reasonably suitable to— (a) the needs of the tenant and his family as regards proximity to place
+of work; (b) the means of the tenant; and (c) the needs of the tenant and his family as regards extent and character;
+and that if any furniture was provided for use under the assured tenancy in question, furniture is provide for use in the accommodation which is either similar to that so provided or is reasonably suitable to the needs of the tenant and his family.
+(6) Accommodation shall not be deemed to be suitable to the needs of the tenant and his family if the result of their occupation of the accommodation would be that it would be an overcrowded dwelling-house for the purposes of the Housing Act 1957.
+(7) In this section— “assured tenancy” has the same meaning as in section 56 of the
+Housing Act 1980; “protected tenancy” means a protected tenancy within the
+meaning of the Rent Act 1977, other than one under which the landlord might recover possession of the dwelling-house under one of the Cases in Part II of Schedule 15 to that Act (cases where the court must order possession); and
+“secure tenancy” has the same meaning as in section 28 of the Act of 1980.”.
+5 Section 31A applies as if in subsection (1)(a) for the words “for the purposes of the business carried on by the tenant” there were substituted “as a residence for the tenant and his family”.
+6 Section 34 applies as if in subsection (2)(b) for the words from “tenancies” to the end there were substituted the words “assured tenancies (within the meaning of section 56 of the Housing Act 1980); and”.
+7 Section 37 applies as if for subsections (2) and (3) there were substituted the following subsection—
+“(2) The said amount shall be [F47the product of the appropriate multiplier and] the rateable value of the holding.”.
+Textual Amendments F47 Words inserted by Housing and Planning Act 1986 (c. 63, SIF 61), s. 13(4)
+[F487A The power to prescribe a multiplier conferred by sub-section (8) of that section includes power to prescribe a multiplier in relation to assured tenancies different from that prescribed in relation to other tenancies to which Part II of the M12Landlord and Tenant Act 1954 applies. ]
+Housing Act 1980 (c. 51) SCHEDULE 6 – Applications for registration of Rent Document Generated: 2025-03-21
+35
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments F48 Para. 7A inserted by Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1), s. 193, Sch.
+33 para. 14
+Marginal Citations M12 1954 c. 56(75:1).
+[F498 Section 38 applies as if the following provisions were omitted— (a) in subsection (1), the words “(except as provided by subsection (4) of this
+section)”; (b) in subsection (2), the words from the beginning to the end of paragraph (b); (c) subsections (3) and (4).]
+Textual Amendments F49 Para. 8 substituted by Housing and Planning Act 1986 (c. 63, SIF 61), s. 13(7)
+9 Section 63(7)(a) applies as if reference to section 23(3) of the Act of 1954 were a reference to paragraph 3 of this Schedule.
+PROSPECTIVE
+SCHEDULE 6 Section 59.
+APPLICATIONS FOR REGISTRATION OF RENT
+Modifications etc. (not altering text) C29 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+1 Schedule 11 to the 1977 Act (applications for registration of rent) is amended as follows.
+2 For paragraphs 2 and 3 there are inserted the following paragraphs— “2 (1) Where the application is made jointly by the landlord and the tenant and it
+appears to the rent officer, after making such inquiry, if any, as he thinks fit and considering any information supplied to him in pursuance of paragraph 1 above, that the rent specified in the application is a fair rent, he may register that rent without further proceedings.
+(2) Where the rent officer registers a rent under this paragraph he shall notify the landlord and the tenant accordingly.
+3 (1) In the case of an application which does not fall within paragraph 2 above, the officer shall serve on the landlord and on the tenant a notice—
+36 Housing Act 1980 (c. 51) SCHEDULE 6 – Applications for registration of Rent
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a) stating the rent specified in the application ; (b) stating any sum specified in the application in accordance with
+section 67(2)(b) of this Act ; and (c) inviting the person on whom the notice is served to state, within a
+period of not less than seven days after the service of the notice, whether he wishes the rent officer to consider, in consultation with the landlord and the tenant, what rent ought to be registered for the dwelling-house.
+(2) Where, in pursuance of section 67(2)(b), the application was accompanied by details of the landlord’s expenditure in connection with the provision of services, a notice under this paragraph shall be accompanied by a copy of those details.
+3A If, after service of a notice by the rent officer under paragraph 3 above, no request is made within the period specified in the notice for the rent to be considered as mentioned in paragraph 3(1)(c) above, the rent officer after considering what rent ought to be registered or, as the case may be, whether a different rent ought to be registered, may—
+(a) determine a fair rent and register it as the rent for the dwelling-house ; or
+(b) confirm the rent for the time being registered and note the confirmation in the register ; or
+(c) serve a notice under paragraph 4(2) below.” 3 For sub-paragraph (1) of paragraph 4 there is substituted the following
+sub-paragraph—
+“(1) Where, in response to a notice served by the rent officer under paragraph 3 above, the landlord or the tenant asks for the rent to be considered as mentioned in paragraph 3(1)(c), the rent officer shall serve a notice under this paragraph.”.
+4 In sub-paragraph (2) of paragraph 4, for the word “ notice” there are inserted the words “ notice, or 14 days in a case falling within paragraph 3(1)(b) above”.
+5 After sub-paragraph (3) of paragraph 4 there is inserted the following sub-paragraph—
+“(4) The rent officer may, where he considers it appropriate, arrange for consultations in respect of one dwelling-house to be held together with consultations in respect of one or more other dwelling-houses.”
+6 In paragraph 5, for the words “ and shall”, immediately after sub-paragraph (b), there is substituted—
+“5A Where a rent has been registered or confirmed by the rent officer under paragraph 3A or 5 above, he shall.”
+7 In paragraph 6(1) for “ 5” there is substituted “ 5A”.
+Housing Act 1980 (c. 51) Schedule 7 – Amendment of Schedule 15 to 1977 Act Document Generated: 2025-03-21
+37
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+SCHEDULE 7 Section 66.
+AMENDMENT OF SCHEDULE 15 TO 1977 ACT
+Modifications etc. (not altering text) C30 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+The following new Part is inserted at the end of Schedule 15 to the 1977 Act (grounds for possession of dwelling-houses let on or subject to protected or statutory tenancies)—
+“PART V
+Provisions applying to Cases 11, 12 and 20 1 In this Part of this Schedule—
+“mortgage” includes a charge and “mortgagee” shall be construed accordingly ;
+“owner” means, in relation to Case 11, the owner-occupier ; and “successor in title” means any person deriving title from the owner, other
+than a purchaser for value or a person deriving title from a purchaser for value.
+2 The conditions referred to in paragraph (c) in each of Cases 11 and 12 and in paragraph (e)(ii) of Case 20 are that—
+(a) the dwelling-house is required as a residence for the owner or any member of his family who resided with the owner when he last occupied the dwelling-house as a residence ;
+(b) the owner has retired from regular employment and requires the dwelling-house as a residence ;
+(c) the owner has died and the dwelling-house is required as a residence for a member of his family who was residing with him at the time of his death ;
+(d) the owner has died and the dwelling-house is required by a successor in title as his residence or for the purpose of disposing of it with vacant possession ;
+(e) the dwelling-house is subject to a mortgage, made by deed and granted before the tenancy, and the mortgagee—
+(i) is entitled to exercise a power of sale conferred on him by the mortgage or by section 101 of the Law of Property Act 1925 ; and
+(ii) requires the dwelling-house for the purpose of disposing of it with vacant possession in exercise of that power ; and
+(f) the dwelling-house is not reasonably suitable to the needs of the owner, having regard to his place of work, and he requires it for the purpose of disposing of it with vacant possession and of using the proceeds of that disposal in acquiring, as his residence, a dwelling-house which is more suitable to those needs.”
+38 Housing Act 1980 (c. 51) SCHEDULE 8 – Crown Estate and Duchies—Consequential Provisions
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+SCHEDULE 8
+CROWN ESTATE AND DUCHIES—CONSEQUENTIAL PROVISIONS
+PART I
+Rent Act 1977 1 Where a tenancy granted before the commencement of section 73 of this Act
+becomes, or would but for its low rent become, a protected tenancy by virtue of that section, section 5 of the 1977 Act applies as if in relation to the dwelling-house the appropriate day were the commencement of that section.
+2 In Part I of Schedule 15 to the 1977 Act the following is inserted after paragraph (b) of Case 6 :
+“(bb) the commencement of section 73 of the Housing Act 1980, in the case of a tenancy which became a regulated tenancy by virtue of that section.”
+Modifications etc. (not altering text) C31 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+3 In Part II of Schedule 15 to the 1977 Act any reference to the relevant date shall (notwithstanding paragraph 2 of Part III of that Schedule) be construed, in the case of a tenancy which becomes a regulated tenancy by virtue of section 73 of this Act as meaning the date falling six months after the passing of this Act.
+4 (1) Part II of Schedule 18 to the 1977 Act applies to a tenancy which becomes a regulated tenancy by virtue of section 73 of this Act (unless it is a tenancy falling within sub-paragraph (2) below).
+(2) Nothing in Part IX of the 1977 Act applies to the assignment, before the end of the year 1990, of a tenancy which falls within this sub-paragraph; and a tenancy falls within this sub-paragraph if it was granted for a term certain and its terms do not inhibit both the assignment and the underletting of the whole of the premises comprised in the tenancy, and either—
+(a) it was granted before the commencement of section 73 of this Act and became a regulated tenancy by virtue of that section; or
+(b) it is a regulated tenancy by virtue of that section and was granted to a person who, at the time of the grant, was the tenant of the premises comprised in it under a regulated tenancy which also fell within this sub-paragraph.
+(3) For the purposes of sub-paragraph (2) above the terms of a tenancy inhibit an assignment or underletting if they—
+(a) preclude it; or (b) permit it subject to a consent but exclude section 144 of the M13Law of
+Property Act 1925 (no payment in nature of fine); or
+Housing Act 1980 (c. 51) SCHEDULE 8 – Crown Estate and Duchies—Consequential Provisions Document Generated: 2025-03-21
+39
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c) permit it subject to a consent but require in connection with a request for consent the making of an offer to surrender the tenancy.
+Marginal Citations M13 1925 c. 20(98:1).
+PART II
+M14Rent (Agriculture) Act 1976
+Marginal Citations M14 1976 c. 80(75:3).
+5 Where the question whether a person is a qualifying worker for the purposes of the Rent (Agriculture) Act 1976 arises by virtue of section 73 of this Act, Part II of Schedule 3 to that Act applies as if the date of operation for forestry workers were the commencement of that section.
+6 Where a protected occupancy or statutory tenancy within the meaning of the Rent (Agriculture) Act 1976 arises at the commencement of section 73 of this Act, Cases VIII and X in Schedule 4 to that Act apply in relation to it as if the operative date were that commencement.
+7 For the purpose of determining whether, at the commencement of section 73 of this Act, a person becomes a statutory tenant for the purposes of the Rent (Agriculture) Act 1976 and of applying that Act to him if he does, paragraph 3 of Schedule 9 to that Act applies as if the operative date were that commencement.
+8 Paragraphs 6 and 7 above apply in relation to forestry workers as they apply in relation to other persons and paragraph 7 of Schedule 9 to the Rent (Agriculture) Act 1976 does not apply.
+PART III
+General 9 Where an interest belongs to Her Majesty in right of the Duchy of Lancaster,
+then, for the purposes of Part I of the M15Landlord and Tenant Act 1954, the Rent (Agriculture) Act 1976 or the 1977 Act, the Chancellor of the Duchy of Lancaster shall be deemed to be the owner of the interest.
+Marginal Citations M15 1954 c. 56(75:1).
+10 Where an interest belongs to the Duchy of Cornwall, then, for the purposes of Part I of the Landlord and Tenant Act 1954, the Rent (Agriculture) Act 1976 or the 1977
+40 Housing Act 1980 (c. 51) SCHEDULE 9 – Provisions Supplementing Section 74
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Act, the Secretary of the Duchy of Cornwall shall be deemed to be the owner of the interest.
+SCHEDULE 9
+PROVISIONS SUPPLEMENTING SECTION 74 1 Paragraphs 2 to 6 below apply to any tenancy which was a protected or statutory
+tenancy but which, by virtue of the landlord becoming a “housing trust” within the meaning of section 15 of the 1977 Act, has ceased to be such a tenancy.
+2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F50
+Textual Amendments F50 Sch. 9 para. 2 repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+3 Registration of a rent, or of a different rent, for the dwelling-house shall be effected in pursuance of section 87 of the 1977 Act; but until such time as a rent is so registered—
+(a) the rent recoverable under the tenancy; and (b) where a rent was registered for the dwelling-house under Part IV of the
+1977 Act, the time at which an application for a different registered rent may be made;
+shall be determined as if the tenancy had continued to be a regulated tenancy. 4 If the tenant was a successor within the meaning of Schedule 1 to the 1977 Act he
+shall not be treated as a successor for the purposes of [F51Part IV of the Housing Act 1985 (secure tenancies)].
+Textual Amendments F51 Words substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para.
+44(4)(a)
+5 [F52Section 83 [F53or 83ZA] of the Housing Act 1985 (notice of proceedings for possession)] does not apply in any case where proceedings for possession were begun before the tenancy ceased to be a protected or statutory tenancy; but in such a case the court shall allow the parties to take such steps in relation to the proceedings as it considers appropriate in consequence of the tenancy becoming a secure tenancy.
+Textual Amendments F52 Words substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para.
+44(4)(b) F53 Words in Sch. 9 para. 5 inserted (20.10.2014 for E., 21.10.2014 for W.) by Anti-social Behaviour, Crime
+and Policing Act 2014 (c. 12), s. 185(1)(2)(c)(3)(c), Sch. 11 para. 2 (with ss. 21, 33, 42, 58, 75, 93); S.I. 2014/2590, art. 2(h); S.I. 2014/2830, art. 2(g)(i)
+Housing Act 1980 (c. 51) SCHEDULE 10 – Amendment of Part VI of Rent Act 1977 Document Generated: 2025-03-21
+41
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+6 (1) This paragraph applies in any case where— (a) the tenant died before the date on which the tenancy ceased to be a protected
+or statutory tenancy; and (b) there was then more than one member of his family entitled to succeed him
+as statutory tenant but no decision had, by that date, been reached as to which of them was to succeed.
+(2) In a case to which this paragraph applies, the person who is to be the secure tenant of the dwelling-house on the tenancy becoming a secure tenancy shall be selected by the landlord from among those mentioned in sub-paragraph (1)(b) above notwithstanding that the question may have been referred to the county court in accordance with paragraph 1(7) of Schedule 1 to the 1977 Act.
+SCHEDULE 10 Section 77.
+AMENDMENT OF PART VI OF RENT ACT 1977 1 (1) Section 86 of the 1977 Act is amended as follows.
+(2) In subsection (2) after the word “ tenancy”, where it first occurs, there are inserted the words “ (other than a co-ownership tenancy)”.
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F54
+(4) After subsection (3) there is inserted the following subsection—
+“(3A) For the purposes of this section a tenancy is a “ co-ownership tenancy” if— (a) it was granted by a housing association which falls within
+section 15(3)(d) of this Act ; and (b) the tenant (or his personal representatives) will, under the terms of
+the tenancy agreement or of the agreement under which he became a member of the association, be entitled, on his ceasing to be a member and subject to any conditions stated in either agreement, to a sum calculated by reference directly or indirectly to the value of the dwelling house.”.
+(5) For subsection (4) there is substituted the following subsection—
+“(4) In this Part of this Act “ housing trust” has the same meaning as in section 15 of this Act.”.
+Textual Amendments F54 Sch. 10 para. 1(3) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch.
+1 Pt. I
+Modifications etc. (not altering text) C32 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+42 Housing Act 1980 (c. 51) SCHEDULE 10 – Amendment of Part VI of Rent Act 1977
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F55
+Textual Amendments F55 Sch. 10 para. 2 repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+3 Sections 90 (special rent limit where previous rent limit exceeds registered rent) and 91 (procedure on application to Secretary of State under section 90) of the 1977 Act are hereby repealed.
+Modifications etc. (not altering text) C33 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+4 In section 92 (conversion of housing association tenancies into regulated tenancies) in subsection (1) the words “ in such form as may be prescribed” are hereby repealed.
+Modifications etc. (not altering text) C34 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+5 (1) Section 93 of the 1977 Act (increase of rent without notice to quit) is amended as follows.
+(2) In subsection (1), for the words from “ given by the landlord” to the end there are substituted the words “ specifying the date on which the increase is to take effect and given by the landlord to the tenant not later than four weeks before that date.”.
+(3) For subsection (2) there is substituted the following subsection—
+“(2) Where a notice of increase is given under subsection (1) above and the tenant, before the date specified in the notice of increase, gives a valid notice to quit, the notice of increase does not take effect unless the tenant, with the written agreement of the landlord, withdraws his notice to quit before that date.”
+(4) Subsection (3) is hereby repealed.
+(5) This paragraph only applies to notices of increase given after the commencement of this paragraph.
+Modifications etc. (not altering text) C35 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted:
+Housing Act 1980 (c. 51) SCHEDULES 11—13 Document Generated: 2025-03-21
+43
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+F56 SCHEDULES 11—13
+Textual Amendments F56 Schs. 11–13 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F57 SCHEDULE 14
+Textual Amendments F57 Sch. 14 repealed by Finance Act 1982 (c. 39, SIF 63:1), s. 157, Sch. 22 Pt. V Note
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F58 SCHEDULE 15
+Textual Amendments F58 Sch. 15 repealed by Social Security and Housing Benefits Act 1982 (c. 24, SIF 113:1), s. 48(6), Sch. 5
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F59 SCHEDULES 16—20
+Textual Amendments F59 Schs. 16–20 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44 Housing Act 1980 (c. 51) SCHEDULE 21 – Amendments of Leasehold Reform Act 1967 (c. 88) and Housing Act 1974 (c. 44),
+Schedule 8 Document Generated: 2025-03-21
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+SCHEDULE 21 Section 141.
+AMENDMENTS OF LEASEHOLD REFORM ACT 1967 (C. 88) AND HOUSING ACT 1974 (C. 44), SCHEDULE 8
+Modifications etc. (not altering text) C36 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+1 F60. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments F60 Sch. 21 para. 1 repealed (26.7.2002 for E., 1.1.2003 for W.) by Commonhold and Leasehold Reform Act
+2002 (c. 15), s. 180, Sch. 14; S.I. 2002/1912, art. 2(b)(ii), Sch. 1 Pt. 3 (subject to savings in Sch. 2); S.I. 2002/3012, art. 2(b)(ii), Sch. 1 Pt. 3 (subject to savings in Sch. 2)
+2 For section 1(4A) of the 1967 Act (reduction of rateable value in consequence of tenants’ improvements), substitute—
+“(4A) Schedule 8 to the Housing Act 1974 shall have effect to enable a tenant to have the rateable value of the house and premises reduced for purposes of this section in consequence of tenant’s improvements.”
+F613 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments F61 Sch. 21 para. 3 repealed (1.11.1993) by 1993, c. 28, s. 187(2), Sch. 22; S.I. 1993/2134, art. 5(a)
+4 In section 16 of the 1967 Act (exclusion of rights which would otherwise accrue under extending tenancies), after subsection (1) insert—
+“(1A) The Rent Act 1977 shall not apply to a tenancy extended under section 14 above ; but if when this provision comes into force a rent is registered under Part IV of the 1977 Act for a dwelling-house which is the subject of an extended tenancy, the tenant shall not be obliged to pay more than the registered rent under the extended tenancy until the next rental period (within the meaning of the 1977 Act) after the landlord has served on him a notice in writing that the registered rent no longer applies.”
+5 In section 29 of the 1967 Act (reservation of future right to develop), after subsection (6A) insert—
+“(6B) Where the landlord is a university body, the possible development for which land may be reserved by a covenant entered into to give effect to subsection (1) or (2) above includes development by a related university body (within the meaning of section 28(6)(b) above”
+Housing Act 1980 (c. 51) SCHEDULE 21 – Amendments of Leasehold Reform Act 1967 (c. 88) and Housing Act 1974 (c. 44), Schedule 8 Document Generated: 2025-03-21
+45
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+6 In paragraph 7(1)(b) of Schedule 1 to the 1967 Act, at the beginning insert “ subject to paragraph 7A”, omit “ (subject to paragraph 8 below)” and after paragraph 7 insert— “7A (1) The price payable for a minor superior tenancy shall be calculated
+(except where it has been determined by agreement or otherwise before this paragraph comes into force ) by applying the formula set out in sub-paragraph (5) instead of in accordance with section 9.
+(2) “A minor superior tenancy” means a superior tenancy having an expectation of possesion of not more than one month and in respect of which the profit rent is not more than £5 per year.
+(3) “Profit rent” means an amount equal to that of the rent payable under the tenancy on which the minor superior tenancy is in immediate reversion, less that of the rent payable under the minor superior tenancy.
+(4) Where the minor superior tenancy or that on which it is in immediate reversion comprises property other than the house and premises, the reference in sub-paragraph (3) to the rent payable under it means so much of that rent as is apportioned to the house and premises.
+(5) The formula is—
+where— P=the price payable; R=the profit rent; Y=the yield (expressed as a decimal fraction) from 2½ per cent. Consolidated Stock ; n=the period, expressed in years (taking any part of a year as a whole year) which the minor superior tenancy would have to run if it were not extinguished by enfranchisement.
+(6) In calculating the yield from 2½ per cent. Consolidated Stock, the price of that stock shall be taken to be the middle market price at the close of business on the last trading day in the week before the tenant gives notice in accordance with this Act of his desire to have the freehold.”
+PROSPECTIVE
+7 In paragraph 6(1)(b) of Schedule 3 to the 1967 Act (particulars to be included in tenants’ notices of desire to have freehold or extended lease), after “ show that” insert “ (i)”, and at the end insert—
+“(ii) at the material time the rateable value was within the limits specified for the puroses of section 1; .”
+46 Housing Act 1980 (c. 51) SCHEDULE 22 – Leasehold Valuation Tribunals
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+8 In Schedule 8 to the 1974 Act (procedure for obtaining reduction of rateable value for purposes of the 1967 Act)—
+(a) in paragraph 1(1) (notice to landlord requiring agreement to reduction), for “ subsection (1) of section 1 of this Act” substitute “ section 1 of the Leasehold Reform Act 1967 ” ;
+(b) in paragraph 2(2)(determinations by county court), omit from “ and any such determination” onwards ;
+(c) in paragraph 3(2)(a) (valuation officer’s certificate) for “ subsection (1) of section 1 of this Act” substitute “ section 1 of the Leasehold Reform Act 1967 ”;
+(d) after paragraph 3 insert— “4 Where a notice under paragraph 1 of this Schedule is served on
+or after 21st December 1979, the tenant shall bear the reasonable costs incurred by the landlord in investigating any matter specified in it.”
+(e) in paragraph 2 of the second Form set out in the Schedule, for the words “ Schedule Seven to the Leasehold Reform Act 1967” substitute “ Schedule 8 to the Housing Act 1974 ”, and in paragraph 3 of that Form for “ Seven” substitute “ 8 ”.
+SCHEDULE 22 Section 142.
+LEASEHOLD VALUATION TRIBUNALS
+F62PART I
+SUPPLEMENTARY PROVISIONS
+Textual Amendments F62 Sch. 22 Pt. 1 repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold Reform Act
+2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+Constitution of tribunals 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Appeals 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Housing Act 1980 (c. 51) SCHEDULE 22 – Leasehold Valuation Tribunals Document Generated: 2025-03-21
+47
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Costs 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Provision of information 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART II
+AMENDMENTS OF 1967 ACT
+Modifications etc. (not altering text) C37 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+8 (1) In section 21(1) (jurisdiction of Lands Tribunal) for “ the Lands Tribunal” substitute “ a leasehold valuation tribunal”.
+(2) After section 21(1) insert—
+“(1A) An application to a leasehold valuation tribunal under subsection (1) above must be in the prescribed form and contain the prescribed particulars.
+(1B) No application may be made to a leasehold valuation tribunal under subsection (1) above to determine the price for a house and premises unless either—
+(a) the landlord has informed the tenant of the price he is asking ; or (b) two months have elapsed without his doing so since the tenant gave
+notice of his desire to have freehold this Part of this Act.”.
+(3) In section 21(2), for “ the Lands Tribunal” substitute “ a leasehold valuation tribunal” and for “ the Tribunal” substitute “ a tribunal”.
+F63(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F63(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F63(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7) Section 21(5) (costs of proceedings before Lands Tribunal) is repealed.
+Textual Amendments F63 Sch. 22 para. 8(4)-(6) repealed (30.9.2003 for E., 30.3.2004 for W.) by Commonhold and Leasehold
+Reform Act 2002 (c. 15), s. 181(1), Sch. 14; S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+48 Housing Act 1980 (c. 51) SCHEDULES 23—24
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+9 In section 31(2)(a) (consent of Church Commissioners required to provisions of conveyance) after “ the court” insert “ a leasehold valuation tribunal”.
+10 In paragraph 5(3) of Schedule 1 (price for intermediate leasehold interests) for “ the Lands Tribunal” (twice) substitute “ a leasehold valuation tribunal”.
+11 In paragraph 2(2) of Schedule 2 (compensation payable to tenant for loss of house and premises) for “ the Lands Tribunal” substitute “ a leasehold valuation tribunal”.
+12 Paragraph 8(2) of Schedule 2 (costs of proceedings before Lands Tribunal) is hereby repealed.
+F64 SCHEDULES 23—24
+Textual Amendments F64 Schs. 23, 24 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SCHEDULE 25 Section 152.
+MINOR AND CONSEQUENTIAL AMENDMENTS, TRANSITIONAL PROVISIONS AND SAVINGS
+PART I
+MINOR AND CONSEQUENTIAL AMENDMENTS
+Modifications etc. (not altering text) C38 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c.65) 1 In section 15 of the Reserve and Auxiliary Forces (Protection of Civil Interests)
+Act 1951 (protection of tenure of furnished, and certain other, rented premises by extension of provisions of the 1977 Act applying to restricted contracts) there is inserted, after subsection (1), the following subsection—
+“(1A) This section does not apply in relation to any tenancy entered into after the commencement of section 69(2) of the Housing Act 1980.”
+2 In section 16 of the Act of 1951 (protection of tenure of rented premises not within section 15, by extension of the Rent Acts) for subsections (4) to (7) there are substituted the following subsections—
+Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings Document Generated: 2025-03-21
+49
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“(4) The rent for any rental period shall be the amount payable for the last rental period of the tenancy qualifying for protection but subject to adjustment from time to time in accordance with section 46 or 47 of the Rent Act 1977 (adjustment, with respect to rates, services and furniture, of recoverable rent for statutory periods before registration).
+(5) Subsection (4) above has effect subject to any agreement between the parties for the payment of a lower rent ; and where a lower rent is agreed it shall not be increased in accordance with section 46 or 47 of the Act of 1977 but may, notwithstanding anything in any other enactment, be increased by agreement in writing between the parties up to the amount payable under subsection (4) above.”
+3 In sections 17 and 18 of the Act of 1951 (which relate respectively to premises which include accommodation shared otherwise than with the landlord and to premises occupied in connection with employment under a licence or a rent-free letting) in each case in subsection (2) for the words “ to (7)” there are substituted the words “ and (5)”.
+Housing Act 1957 (c. 56) 4 Section 5 of the 1957 Act (prohibition of back-to-back houses) is hereby repealed. 5 In section 96 of the 1957 Act, in paragraph (d) the words “ by them”, and
+paragraph (e), are hereby repealed. 6 In section 119(3) of the 1957 Act (financial assistance for housing associations)
+the words from “ with the consent” to “ the Minister” and the words from “ The Ministers power” to the end are hereby repealed.
+7—9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F65
+Textual Amendments F65 Sch. 25 Pt. I paras. 7–9 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s.
+3, Sch. 1 Pt. I
+10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F66
+Textual Amendments F66 Sch. 25 Pt. I para. 10 repealed by Supreme Court Act 1981 (c. 54, SIF 37), s. 152(4), Sch. 7
+11—13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F67
+Textual Amendments F67 Sch. 25 Pt. I paras.11–13 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s.
+3, Sch. 1
+14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F68
+50 Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments F68 Sch. 25 Pt. I para. 14 repealed by Matrimonial Homes Act 1983 (c. 19, SIF 49:5), s. 12, Sch. 3
+15—17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F69
+Textual Amendments F69 Sch. 25 Pt. I paras.15–17 repealed by Matrimonial Homes and Property Act 1981 (c. 24, SIF 49:5), s.
+10(2), Sch. 3
+18, 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F70
+Textual Amendments F70 Sch. 25 Pt. I paras. 18, 19 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61),
+s. 3, Sch. 1 Pts. I, III
+20—31 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F71
+Textual Amendments F71 Sch. 25 Pt. I paras. 20–31 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61),
+s. 3, Sch. 1
+Rent (Agriculture) Act 1976 (c.80) 32 In section 7 of the Rent (Agriculture) Act 1976, at the end of subsection (6)
+(definition of “ tenant”), there are added the words “ and “tenancy” shall be construed accordingly”.
+33 In section 13 of the Act of 1976 (application for registration of rent)— (a) for the words “ three years” in subsection (7) there are substituted the words
+“ two years” ; and (b) in subsection (3) for the words “ Schedule 7” there are substituted the words
+“ Schedule 12”.
+Rent Act 1977 (c.42) 34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F72
+Textual Amendments F72 Sch. 25 Pt. I para. 34 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3,
+Sch. 1 Pt. I
+35 Sections 18(4) and 115 of the 1977 Act (modification of Act in cases where controlled tenancies converted into regulated tenancies) are hereby repealed ; and in that Act, after section 18, there is inserted the following section—
+Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings Document Generated: 2025-03-21
+51
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“18A Modification of Act for controlled tenancies converted into regulated tenancies.
+Schedule 17 to this Act applies for the purpose of modifying the provisions of this Act in relation to a tenancy which, by virtue of any of the following enactments, was converted from a controlled tenancy into a regulated tenancy, that is to say—
+(a) section 18(3) of this Act ; (b) paragraph 5 of Schedule 2 to the Rent Act 1968 (which was
+superseded by section 18(3)); (c) Part VIII of this Act ; (d) Part III of the Housing Finance Act 1972 (which was superseded by
+Part VIII) ; (e) Part IV of the Act of 1972 (conversion by reference to rateable
+values) ; (f) section 64 of the Housing Act 1980 (conversion of remaining
+controlled tenancies into regulated tenancies).” 36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F73
+Textual Amendments F73 Sch. 25 Pt. I para. 36 repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+37 In section 45(4) of the 1977 Act, for the words “ to 48” there are substituted the words “ and 47”.
+38 In section 49 of the 1977 Act, for the words “ 46(2) or 48(3)” there are substituted the words “ or 46”.
+39 In section 55 of the 1977 Act (general provisions for phasing of rent increases), in subsection (3), for paragraph (b) there is substituted the following paragraph—
+“(b) the provisions of section 89 of this Act do not apply to it ; and” 40 In sections 68(4), 69(1)(b)(ii), and (4), 73(1)(a), and 88(4)(b) of the 1977 Act for
+the words “ three years” and “ 3 years” wherever occurring there are substituted the words “ 2 years”.
+This paragraph does not apply in any case where, on the determination or confirmation of a rent by the rent officer, the rent determined by him is registered, or his confirmation is noted in the register, before the commencement of this paragraph.
+41 In section 70(3) of the 1977 Act (matters to be disregarded in determining fair rent) paragraphs (c) and (d) are hereby repealed.
+42 In section 78(5) of the 1977 Act, for the words “ subsection (1)” there are substituted the words “ subsection (2)”.
+43 In section 79 of the 1977 Act— (a) in subsection (1) for the words “ local authority” there are substituted the
+words “ president of every rent assessment panel” ; (b) in subsection (2) for the words “ local authority” there are substituted the
+words “ rent assessment panel” ;
+52 Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c) subsection (4) is hereby repealed ; and (d) in subsection (5) for the words “ local authority” there are substituted the
+words “ president of the rent assessment panel concerned”. 44 In section 79 of the 1977 Act there is inserted, at the end, the following subsection—
+“(6A) Every local authority shall, before the expiry of the period of three months beginning with the commencement of paragraph 44 of Schedule 25 to the Housing Act 1980, send to the president of the appropriate rent assessment panel the register previously kept by the authority under this section.”
+45 In section 85 of the 1977 Act— (a) in the definition of “ register” for the words “ local authority” there are
+substituted the words “ president of the rent assessment panel concerned” ; and
+(b) in the definition of “ rent tribunal” for the words from “ has” onwards there are substituted the words “ shall be construed in accordance with section 72 of the Housing Act 1980”.
+46 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F74
+Textual Amendments F74 Sch. 25 Pt. I para. 46 repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+47 (1) Section 116 of the 1977 Act (provision where tenant refuses to allow landlord to carry out works) is amended as follows.
+(2) For subsection (1) there is substituted the following subsection—
+“(1) This section applies where a dwelling-house is subject to a statutory tenancy and the landlord wishes to carry out works which cannot be carried out without the consent of the tenant.”
+(3) For subsection (3) there is substituted the following subsection—
+“(3) The condition is— (a) that the works were specified in an application for an improvement,
+or intermediate, grant under Part VII of the Housing Act 1974 and the application has been approved, or
+(b) that the works are specified in a certificate issued by a local authority and stating that if an application were to be made by the landlord for such a grant in respect of the works, the application would be likely to be approved.”
+(4) In subsection (5) the words “ sections 4(4) or 10 of the Housing Act 1969 or” are hereby repealed.
+48 In section 129(1) of the 1977 Act (mortgages to which Part X applies), for paragraph (b) there is substituted the following paragraph—
+“(b) are regulated mortgages as defined in section 131 of this Act.” 49 In section 132(1) of the 1977 Act (powers of court to mitigate hardship to
+mortgagors under regulated mortgages), for the words from “ relate only” to “ such a mortgage” there are substituted the words “ become exercisable, in relation to a regulated mortgage,”.
+Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings Document Generated: 2025-03-21
+53
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+50 In section 136 of the 1977 Act (interpretation of Part X), in paragraph (b) for the words from “ and mortgage” to “ include” there is substituted the word “ includes”.
+51 Section 138(3) of the 1977 Act (effect on furnished sub-tenancy of determination of superior unfurnished tenancy) shall have effect, and be deemed always to have had effect, as if for the words from “ meaning” to the end there were substituted the words “ same meaning as it has for the purposes of section 137(2) of this Act”.
+52 In section 145 of the 1977 Act (which limits the rent recoverable under tenancies of certain subsidised private houses), for subsections (3) and (4) (which apply to conditions limiting the rent under controlled tenancies) and subsection (5) (which applies Schedule 21 to that Act to conditions limiting the rent under other tenancies) there are substituted the following subsections—
+“(3) If any condition to which this section applies limits the rent under a tenancy, the condition shall limit, or have effect as if it limited, the rent—
+(a) if the tenancy is a regulated tenancy which is not a converted tenancy within the meaning of Schedule 17 to this Act, to the rent which would be recoverable if the tenancy had been converted from being a controlled tenancy upon the commencement of section 64 of the Housing Act 1980 and accordingly as if it were a converted tenancy ;
+(b) if the tenancy is a converted tenancy, or a housing association tenancy within the meaning of Part VI of this Act, to the rent recoverable under this Act ;
+(c) if the tenancy is a protected occupancy or statutory tenancy within the meaning of the Rent (Agriculture) Act 1976, to the rent recoverable in accordance with that Act ; and
+(d) in any other case, to such rent as may from time to time be, or have been, agreed between the landlord and the local authority or as may, in default of agreement, be or have been determined by the Secretary of State.
+(4) Subject to subsection (5) below, in subsection (3) above “ local authority”, in relation to any premises, means the council of the London borough or district in which the premises are situated or, if they are situated in the City of London, the Common Council of the City of London.
+(5) In the case of houses the construction of which was promoted by the Greater London Council or in respect of which improvement grants were made by that council under the Housing (Financial Provisions) Act 1958, the reference in subsection (3) above to the local authority shall be construed as a reference to the Greater London Council.”
+53 In section 149 of the 1977 (powers of local authorities for purposes of giving information), in subsection (1)(a), for sub-paragraph (iii) there is substituted the following sub-paragraph—
+“(iii) Part II, and section 136, of the Housing Act 1980 ;” 54 In section 153(1) of the 1977 Act (application to Isles of Scilly), for the words “
+103 to 106” there are substituted the words “ 102A to 106A”. 55 Section 155(1) of the 1977 Act (which modifies provisions of that Act in relation
+to certain old controlled tenancies) is hereby repealed. 56 In Schedule 10 to the 1977 Act (rent assessment committees)—
+54 Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a) in paragraph 2 the words from “ and, if the Secretary of State” to the end ; and
+(b) paragraph 10 ; are hereby repealed.
+57 In Schedule 15 to the 1977 Act (grounds for possession of dwelling-houses), in paragraph (i) in Case 9, for the words “ controlled tenancy” there are substituted the words “ tenancy which was then a controlled tenancy”.
+Case 9 has effect, as so amended, in relation to any tenancy which was a controlled tenancy on the date mentioned in paragraph (i) notwithstanding that it ceased to be a controlled tenancy before the commencement of this paragraph.
+58 In Schedule 15 to the 1977 Act, in paragraph 4 in Part IV, for the words “ paragraph 1” there are substituted the the words “ paragraph 3”, at the end of paragraph (a) there are inserted the words “ (other than one under which the landlord might recover possession of the dwelling-house under one of the Cases in Part II of this Schedule)”, and at the end of paragraph (b) there are inserted the words “ of a kind mentioned in paragraph (a) above”.
+59 In Schedule 17 to the 1977 Act (modification of Act where controlled tenancy converted into into regulated tenancy)—
+(a) in the definition of “ converted tenancy”, for paragraphs (a) and (b) there are substituted the words “ any of the enactments mentioned in section 18A of this Act”; and
+(b) paragraphs 3 and 4 are hereby repealed ; and (c) in paragraph 7, for the words from the beginning to “ shall not” there are
+substituted the words “ None of the enactments mentioned in section 18A of this Act shall”.
+60 In Schedule 24 to the 1977 Act (savings and transitional provisions)— (a) in paragraph 6(4) for the words “ paragraph 1(1)” there are substituted the
+words “ paragraph 1(c)” ; and (b) in paragraph 16 for the words “ sections 44(1), (2), 38 and 72(4)” there are
+substituted the words “ sections 44(1), 45(2), 57 and 72(7)”.
+Protection from Eviction Act 1977 (c. 43) 61 The Protection from Eviction Act 1977 shall apply, where a person has been let
+into possession of a dwelling-house under the terms of a rental purchase agreement (within the meaning of section 88 of this Act) as if—
+(a) the dwelling-house had been let to him as a dwelling under a tenancy which is not a statutorily protected tenancy (within the meaning of section 3 of that Act); and
+(b) that tenancy had come to an end on the termination of the agreement or of his right to possession under it.
+PART II
+TRANSITIONAL PROVISIONS AND SAVINGS
+62 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F75
+Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings Document Generated: 2025-03-21
+55
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments F75 Sch. 25 Pt. II para. 62 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3,
+Sch. 1 Pt. I
+63 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F76
+Textual Amendments F76 Sch. 25 Pt. II para. 63 repealed by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 18
+64 Where the recoverable rent for any statutory period has been increased by a notice under section 48 of the 1977 Act, nothing in section 63 of this Act affects that increase or the operation of subsections (4) and (5) of section 48 in relation to the notice.
+65 In a case where, by virtue of subsection (4) of section 52 of the 1977 Act, that section would not have applied to an agreement with a tenant having security of tenure had it not been replaced by the section substituted by section 68(2) of this Act, the substituted section 52 shall also not apply in relation to that agreement.
+66 The repeal by this Act of subsections (4) and (5) of section 54 of the 1977 Act does not affect the operation of those subsections in relation to defaults occurring before the commencement of section 68 of this Act.
+67 Where, immediately before the commencement of section 69(4) of this Act, a tenancy was, by virtue of section 12(2)(b) of the 1977 Act, a protected tenancy and not a restricted contract, the 1977 Act shall continue to apply in relation to that tenancy as if section 69(4) had not been enacted.
+68 The repeals made by section 74 of this Act in section 15 of the 1977 Act shall not affect any tenancy which was, immediately before the commencement of section 74(1), a protected, or statutory tenancy but which would, were it not for this paragraph, have ceased to be such a tenancy by virtue of the repeal of section 15(4) (f).
+69 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F77
+Textual Amendments F77 Sch. 25 Pt. II paras. 69, 71, 74 and 76 repealed by Housing (Consequential Provisions) Act 1985 (c. 71,
+SIF 61), s. 3, Sch. 1 Pt. I
+70 Any directions given by the Secretary of State under section 24(5) of the Housing Subsidies Act 1967 shall, if in force at the commencement of section 114 of this Act, continue in force as if given under subsection (1)(a) of section 114 until revoked or varied.
+71 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F78
+56 Housing Act 1980 (c. 51) SCHEDULE 25 – Minor and Consequential Amendments, Transitional Provisions and Savings
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments F78 Sch. 25 Pt. II paras. 69, 71, 74 and 76 repealed by Housing (Consequential Provisions) Act 1985 (c. 71,
+SIF 61), s. 3, Sch. 1 Pt. I
+72 (1) This paragraph applies in relation to the exceptions in paragraphs 6 and 11 of Schedule 3 to this Act.
+(2) Notice given to a tenant at any time after 31st March 1980 but before the commencement of Schedule 3 shall be treated—
+(a) as duly given in accordance with paragraph 6(b)(ii) if it would have been so treated had paragraph 6 then been in force; or
+(b) as duly given in accordance with paragraph 11(b) if it would have been so treated had paragraph 11, and the regulations first made under that paragraph designating courses, then been in force.
+73 In relation to a tenancy (or licence) granted before 8th May 1980 Schedule 3 to this Act has effect as if the following paragraph were added at the end of it:
+“14 A tenancy is not a secure tenancy if— (a) the landlord is a charity within the meaning of the Charities Act
+1960; and (b) before the tenancy was granted the tenant was informed in writing
+that the landlord intended to carry out works on the building or part of the building comprising the dwelling-house and could not reasonably do so without obtaining possession of the dwelling-house.”
+74 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F79
+Textual Amendments F79 Sch. 25 Pt. II paras. 69, 71, 74 and 76 repealed by Housing (Consequential Provisions) Act 1985 (c. 71,
+SIF 61), s. 3, Sch. 1 Pt. I
+75 Section 5 of the 1977 Act (tenancies at low rents) shall continue not to apply to any tenancy which, immediately before the repeal by this Act of section 17 of the 1977 Act (categories of controlled tenancies) was a controlled tenancy by virtue of subsection (2) of section 17.
+76 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F80
+Textual Amendments F80 Sch. 25 Pt. II paras. 69, 71, 74 and 76 repealed by Housing (Consequential Provisions) Act 1985 (c. 71,
+SIF 61), s. 3, Sch. 1 Pt. I
+77 Section 90 of the 1977 Act continues to have effect, notwithstanding its repeal by this Act, in relation to any direction given by the Secretary of State under that section.
+Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals Document Generated: 2025-03-21
+57
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+78 Paragraphs 3 and 4 of Schedule 17 to the 1977 Act continue to have effect, notwithstanding paragraph 59 of this Schedule, in relation to a notice of increase served under paragraph 4 before the commencement of paragraph 59.
+SCHEDULE 26 Section 152.
+REPEALS
+Modifications etc. (not altering text) C39 The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch.
+25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+Chapter Short title Extent of repeal 1927 c. 36 The Landlord and Tenant Act
+1927. In section 16, the words “ and shall be so recoverable notwithstanding anything in Part II of the Rent Act 1977”.
+1951 c. 65. The Reserve and Auxilliary Forces (Protection of Civil Interests) Act 1951.
+In section 16(2)(c) the words from “ and that” to the end.
+Section 19(5). 1954 c. 56. The Landlord and Tenant Act
+1954. Section 43(1)(c).
+1957 c. 56. The Housing Act 1957. Section 5. Section 43(4). In section 91, the words from
+“ and as often” to the end. Section 96(e). Sections 105(1), (2) and (5)
+and 106. Section 113(5). In section 119(3), the words
+from “ with the consent” to “ the Minister” and the words from “ The Minister’s power” to the end.
+1958 c. 42. The Housing (Financial Provisions) Act 1958.
+Sections 14 and 15.
+In section 43(1), the words “ subject to such conditions
+58 Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+as may be approved by the Minister”.
+Section 45. 1959 c. 62. The New Towns Act 1959. Section 4(2) and (5). 1961 c. 65. The Housing Act 1961. Section 16. Section 20. 1964 c. 56. The Housing Act 1964. Section 65(1A). Section 66. In Schedule 4, paragraph 2. 1967 c. 29. The Housing Subsidies Act
+1967. In section 24, in subsection (2), the words “ in accordance with subsection (3) of this section”; in subsection (3), the words “ Subject to subsections (4) and (5) of this section”, and the words from “ and” (at the end of paragraph (c)) to the end of subsection; and subsection (4), (5) and (5A).
+Section 24B. In section 26, in
+subsection (1)(b)(ii), the words from “ or the appropriate” to “ later”; in subsection (1)(b)(iii), the words “ or 1st April 1968, whichever is the later”; in subsection (2), paragraph (a), and the words from “ and except” onwards; and subsection (3).
+Section 26A. Section 28A. 1967 c. 88. The Leasehold Reform Act
+1967. Section 21(5).
+In Schedule 1, in paragraph 7(1)(b), the words “ (subject to paragraph 8 below)”.
+in Schedule 2, paragraph 8(2).
+1968 c. 72. The Town and Country Planning Act 1968.
+Section 39.
+Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals Document Generated: 2025-03-21
+59
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+1969 c. 33. The Housing Act 1969. Section 28A. Section 29B. In section 30 the words “ but
+such a resolution shall be of no effect unless approved by the Minister”.
+In section 35, subsections (1) and (3), in subsection (4) the words “ the consent of the Minister under subsection (2) of this section”, subsection (5), in subsection (6) the words from “ with the approval” to “ particular case” and subsection (7).
+In section 38, the words from “ has been approved” to “ this Act”.
+Section 60. Section 61(6). In section 86(5), the words “
+and 37(7)”. 1970 c. 44. The Chronically Sick and
+DIsabled Persons Act 1970. In section 3(1), the words from “ and any proposals” to the end.
+1971 c. 62. The Tribunals and Inquiries Act 1971.
+In section 7(3) the words “ 28(a)” and the words from “ but” onwards.
+In section 13(1) the words “ (a) or”.
+In Schedule 1 paragraph 28(a).
+1972 c. 5. The Local Employment Act 1972.
+In Schedule 3, the entry relating to the Housing Act 1971.
+1972 c. 47. The Housing Finance Act 1972.
+Section 8.
+In section 20, in subsection (5), paragraph (d) and the words “ or (d)(ii)”, and in subsection (7) the words from “ section 19(8)” to “ Schedule 3 to this Act”.
+60 Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+In section 24(5), the words “ or their allowance scheme, as may be appropriate” and the words from “ of Housing Revenue” to “ housing account dwellings”.
+In section 26(1), in the definition of “ allowance” the words from “ but also” to the end, in the definition of “ allowance scheme” the words from “ and includes” to the end, and the definition of “ housing account dwelling”.
+Sections 90 to 91A. In Schedule 3, Part II. In Schedule 4, in paragraph
+1(3)(a) the words from “ Housing” to “ account”, in paragraph 14(1), sub-paragraph (a), in sub-paragraph (b) the words “ or 9” and sub-paragraph (f), and paragraphs 16 and 17.
+1972 c. 70. The Local Government Act 1972.
+In Schedule 22, paragraph 2.
+1973 c. 5. The Housing (Amendment) Act 1973.
+Section 1(1).
+Section 2. 1974 c. 44. The Housing Act 1974. In section 5(3), all after
+paragraph (f). In section 13, in
+subsection (4) the words from “ after consultation” to “ section 14 below” and the words “ after such consultation” and subsection (5)(a).
+Section 14. In section 19(1) the words
+from “ (who” to “ staff)”. Section 30(5). Section 31. In section 32, in
+subsection (1) the word “
+Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals Document Generated: 2025-03-21
+61
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+annual”, and subsections (4) and (8).
+In section 33(6), the words “ before the expiry of that year”.
+In section 38(2)(a), the words “ and approved by the Secretary of State”.
+Section 42. Section 50. Sections 52 to 55. In section 56, in
+subsection (1)(d), the words “ by the provision of standard amenities”, and in subsection (2)(d), the words “ in a housing action area or a general improvement area”.
+In section 57(6), the words “ Except in so far as this Act otherwise provides”, and paragraph (b).
+In section 62(3) the words from “ and different limits” to the end.
+Sectin 64(7). Section 67(2)(b) and (4). in section 71(3),
+paragraph (a). Section 79. In section 84, paragraph (b)
+of the definition of “ the relevant standard”.
+In section 104, the definitions of “ the full standard” and “ the reduced standard”.
+In section 114, in subsection (1) paragraph (c) and the word “ or” immediately preceding it and subsections (6) and (7).
+In Schedule 5, Part I, and in Part II, paragraph 4.
+62 Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+In Schedule 8, in paragraph 2(2) the words from “ and any such determination” onwards.
+In Schedule 11, in paragraph 1, in sub-paragraph (2) the words following paragraph (b), sub-paragraph (3), and sub-paragraphs (5) and (6).
+1975 c. 6. The Housing Rents and Subsidies Act 1975.
+Section 1(3).
+Section 2. Section 4. In Schedule 1, paragraphs 1
+to 11, and 12(4)(a). In Schedule 5, paragraphs
+8(3) and 18. 1975 c. 57. The Remuneration Charges
+and Grants Act 1975. Section 5.
+1975 c. 76. The Local Land Charges Act 1975.
+In Schedule 1, the entry relating to the Housing Act 1957.
+1976 c. 68. The New Towns (Amendment) Act 1976.
+Section 9(4) to (6).
+1976 c. 71. The Supplementary Benefits Act 1976.
+In Schedule 7, paragraph 28.
+1976 c. 75. The Development of Rural Wales Act 1976.
+Section 18.
+In section 22, the word “ 18”. In Schedule 5, paragraphs 1
+to 6 and, in paragraph 7(3), the words “ or any element of a subsidy”.
+1976 c. 80. The Rent (Agriculture) Act 1976.
+In Schedule 4, in Case X, the words “ Part II”, where they first occur.
+In Schedule 6, in paragraph 1 the definition of “ specified sum” and sub-paragraphs (2) and (3) and paragraph 7.
+1977 c. 42. The Rent Act 1977. in section 5(1), the words “ subject to section 17(2) of this Act”.
+Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals Document Generated: 2025-03-21
+63
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+In section 15, in subsection (1) the words from “ in respect” to “ is fulfilled” and subsections (4) and (6).
+Section 17. In section 18, in
+subsection (1) the words from “ which” to the end and subsections (3) and (4).
+In section 19(5)(b), the words “ or of the Duchy of Lancaster or to the Duchy of Cornwall”.
+In section 24, subsections (1) and (2).
+Sections 27 to 43. In section 44(1), the words “
+Schedule 9”. In section 45(2), the words “
+paragraph 8(4) of Schedule 9”.
+Sections 48 and 50. In section 51(3),
+paragraph (b) and the word “ and” immediately before it.
+Section 53. In section 54, in
+subsection (1) the words “ 52(6) or 53”, and subsections (4) and (5).
+Section 56. In section 61(1), the
+definition of “ improvement”. Section 67(6). Section 68(6). In section 69(4) the words “
+Subject to section 67(6) of this Act” and paragraph (b).
+In section 70, in subsection (3), paragraphs (c) and (d) and subsection (5).
+64 Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+In section 71(3)(a), the words from “ subject to” to “ this Act”.
+Section 76. In section 77(1) the words “
+for the district in question”. In section 78(2) the words “
+and the local authority”. Section 79(4). Section 84(a) and (b). Section 86(5). In section 87, subsections (3)
+to (5). Sections 90 and 91. In section 92, in
+subsection (1), the words “ in such form as may be prescribed”, in subsection (5) the definition of “ prescribed” and the word “ and” immediately before it, and subsections (6) and (7).
+Section 93(3). Section 96(1) and (2). Sections 108 to 115. In section 116, in
+subsection (5) the words “ sections 4(4) or 10 of the Housing Act 1969 or”.
+Section 117. In section 118, in
+subsection (1) the words from “ prescribed” to the end, and subsection (2).
+Section 130. In section 131(1), the words “
+but which is not a controlled mortgage”.
+Sections 133 to 135. In section 141, subsections
+(1)(c), (2) and (5)(a) and in subsection (1)(a) the
+Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals Document Generated: 2025-03-21
+65
+Status: This version of this Act contains provisions that are prospective. Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March
+2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+words from “ or whether a mortgage” to “ of this Act”.
+In section 150, the words from “ (other” to “ 31(9))”.
+In section 152(1), the definition of “ controlled tenancy”.
+Section 155(1). In Schedule 1, paragraph 8. In Schedule 2, paragraph (1)
+(c)(i). Schedules 3, 4 and 6. In Schedule 7, paragraph 4. In Schedule 8, in paragraph
+1 the definition of “ specified sum” and sub-paragraphs (5) and (6) and paragraph 8.
+Schedule 9. In Schedule 10, in paragraph
+2 the words from “ and, if the Secretary of State” to the end and paragraph 10.
+In Schedule 11, paragraphs 13, 14 and 15 to 25.
+In Schedule 12, in paragraph 1(c) the words from “ (but” to “ Act)”, in paragraph 3 the words from “ in the case” to “ section” and in paragraph 9(1), paragraph (b) and the word “ or” immediately before.
+Schedule 13. In Schedule 14, paragraph 6. in Schedule 15, in Case 6
+paragraph (a), Case 7 and in Case 10 the words “ Part II or, as the case may be”.
+In Schedule 17, paragraphs 3, 4, 10 and 11.
+Schedule 19. In Schedule 20, in paragraph
+1(1) the words “ or controlled” and sub-
+66 Housing Act 1980 (c. 51) SCHEDULE 26 – Repeals
+Document Generated: 2025-03-21 Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+paragraphs (6) and (7), in paragraph 3(2)(c) the words “ or, as the cases case may be, Schedule 9”, paragraph 4, and in paragraph 5 the definitions of “ dwelling”, “ notice of increase” and “ rent limit”.
+Schedules 21 and 22. In Schedule 23, paragraph
+1, in paragraph 4 sub-paragraphs (g) to (i) and paragraphs 37 38 and 56(a).
+1977 c. 45. The Criminal Law Act 1977. In Schedule 3, paragraph 25. In Schedule 6, the entries
+relating to sections 65(1) of the Housing Act 1964 and 61 of the Housing Act 1969.
+In Schedule 12, the entry relating to section 65 of the Housing Act 1964.
+Housing Act 1980 (c. 51) Document Generated: 2025-03-21
+67
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Housing Act 1980 is up to date with all changes known to be in force on or before 21 March 2025. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. View outstanding changes
+Changes and effects yet to be applied to : – s. 140 amendment to earlier affecting provision 1986 c. 63, Sch. 4 para. 11(2) by
+2024 c. 22 Sch. 9 para. 6(b)

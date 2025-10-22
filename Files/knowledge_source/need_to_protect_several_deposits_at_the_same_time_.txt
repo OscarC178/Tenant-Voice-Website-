@@ -1,0 +1,49 @@
+Source URL: https://www.depositprotection.com/news/latest-news/2022/need-to-protect-several-deposits-at-the-same-time
+Scrape Date: 28 September 2025
+---
+
+Finding extra hours in your day can sometimes feel like finding a needle in a haystack. We’ve made our deposit protection surprisingly easy to help you spend less time on administrative tasks like creating tenancies.
+
+Our Multiple Tenancy Upload Tool saves you time by allowing you to add multiple properties and create multiple tenancies in one go. Follow these simple steps to speed up your deposit protection administration.
+
+Navigate to our How to protect a deposit page
+Scroll to the bottom of the page and click on “Multiple Tenancy Upload Tool” to download the template
+Add each new tenancy to the spreadsheet, one row per tenancy
+Send your completed spreadsheet to bulkuploads@depositprotection.com
+
+We'll send you confirmation the tenancies have been created, the value of the tenancy deposits and their payment reference. Use this payment reference when making your bank transfer to allow us to automatically allocate the money to the relevant deposits.
+
+Tips to help ensure upload success:
+
+When completing the spreadsheet, make sure you record a unique email address or mobile number (or both) for each tenant on the tenancy. Email addresses or mobile numbers cannot be duplicated for more than one tenant in the same tenancy.
+
+Don’t amend or hide any spreadsheet columns. This can affect the upload and prolong the process.
+
+You must complete all the mandatory fields. These are identified at the top of the spreadsheet, highlighted in yellow.
+
+Where cells have fixed responses or formatting, don’t attempt to change these with options that aren’t available. For example, the field ‘Enter level of furnishing’, only select a response from the list provided.
+
+When inputting dates use DD/MM/YYYY format.
+
+When adding a mobile number, make sure you include the correct country code. If you don’t include a country code, the mobile data may be removed for the spreadsheet to be uploaded.
+
+Make sure you confirm if there is a relevant person for the tenancy information in Column ‘DP’: Is there a relevant person? (Yes/ No)
+
+FAQs:
+What is the minimum number of tenancies required to use the Multiple Tenancy Upload Tool? You must have a minimum of 10 deposits to upload.
+
+Is there a maximum number of deposits I can upload? You can upload a maximum of 799 deposits per spreadsheet.
+
+I’m a private landlord. Can I use this service? Yes, this service is available to all agents and landlords as long as you have 10 or more deposits to upload.
+
+I have multiple Agent/Landlord accounts. Can I submit tenancies for more than one account on the same spreadsheet? Yes, though please note your payment reference will be the same across all the account IDs you reference.
+
+What happens after the upload is completed? We'll send you confirmation the tenancies have been created, the value of the tenancy deposits and your payment reference. Use this payment reference when making your bank transfer to allow us to automatically allocate the money to the relevant deposits.
+
+What happens if my submission is rejected? We’ll send you an email with an attachment detailing what you need to amend. There’s no time limit for you to respond to us, but please be aware of your legal timescales to ensure the deposit is protected.
+
+What do I do if the multiple-choice options provided do not cover one of my tenancies? We require all relevant information to be included on tenancies as per the examples – this helps us with security and to ensure all details are correct. If you have any further questions regarding this, please call us on 0330 303 0030 or email contactus@depositprotection.com.
+
+I have received my confirmation of upload, however some of the details were incorrectly supplied. What do I do? If following a successful upload, you notice some of the details are incorrect, please email contactus@depositprotection.com or your Client Manager along with the Tenancy Agreement for each tenancy which requires amendments.
+
+Download the Multiple Tenancy Upload Tool today so you have it available when you’re ready to create your tenancies. If you have any questions, please email contactus@depositprotection.com.
